@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; margin:0; padding:0; background: linear-gradient(135deg, #89f7fe, #66a6ff); }
+.container { max-width:500px; margin:auto; padding:20px; background: rgba(255,255,255,0.95); border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2); margin-top:30px;}
+h1 { text-align:center; color:#333; margin-bottom:20px; }
+.search-box { display:flex; justify-content:center; margin-bottom:15px; }
+input[type='text'] { width:60%; padding:10px; font-size:16px; border-radius:25px; border:1px solid #ccc; text-align:center;}
+ul { list-style:none; padding:0;}
+li { background:#66a6ff; color:white; margin-bottom:10px; padding:15px; border-radius:10px; cursor:pointer; border:1px solid #4285f4; text-align:center; font-weight:bold; transition:background 0.3s;}
+li:hover { background:#4285f4;}
+.settings { background:#f9f9f9; padding:15px; border-radius:10px; margin-top:15px; display:none; border:1px solid #ddd;}
+.settings h2 { margin-top:0; text-align:center; color:#333;}
+.setting-item { margin-bottom:8px; font-size:16px;}
+.setting-item strong { color:#4285f4;}
