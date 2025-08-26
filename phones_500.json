@@ -1,0 +1,4502 @@
+{
+  "Poco X4 Pro 1": {
+    "DPI": 469,
+    "General": 174,
+    "Red Dot": 197,
+    "2x Scope": 177,
+    "4x Scope": 170,
+    "AWM Scope": 152,
+    "Free Look": 180
+  },
+  "Infinix Zero 20 2": {
+    "DPI": 498,
+    "General": 169,
+    "Red Dot": 192,
+    "2x Scope": 159,
+    "4x Scope": 183,
+    "AWM Scope": 169,
+    "Free Look": 133
+  },
+  "Poco X4 Pro 3": {
+    "DPI": 495,
+    "General": 175,
+    "Red Dot": 198,
+    "2x Scope": 165,
+    "4x Scope": 156,
+    "AWM Scope": 192,
+    "Free Look": 170
+  },
+  "Realme GT Master Edition 4": {
+    "DPI": 484,
+    "General": 159,
+    "Red Dot": 152,
+    "2x Scope": 193,
+    "4x Scope": 157,
+    "AWM Scope": 182,
+    "Free Look": 143
+  },
+  "iQOO Neo 5 5": {
+    "DPI": 452,
+    "General": 169,
+    "Red Dot": 185,
+    "2x Scope": 174,
+    "4x Scope": 171,
+    "AWM Scope": 199,
+    "Free Look": 188
+  },
+  "iQOO Z7 Pro 6": {
+    "DPI": 420,
+    "General": 199,
+    "Red Dot": 188,
+    "2x Scope": 195,
+    "4x Scope": 181,
+    "AWM Scope": 193,
+    "Free Look": 170
+  },
+  "Realme GT Neo 5 7": {
+    "DPI": 470,
+    "General": 151,
+    "Red Dot": 199,
+    "2x Scope": 181,
+    "4x Scope": 152,
+    "AWM Scope": 183,
+    "Free Look": 162
+  },
+  "Vivo iQOO 10 8": {
+    "DPI": 410,
+    "General": 155,
+    "Red Dot": 196,
+    "2x Scope": 191,
+    "4x Scope": 171,
+    "AWM Scope": 150,
+    "Free Look": 138
+  },
+  "Xiaomi Black Shark 6 9": {
+    "DPI": 439,
+    "General": 186,
+    "Red Dot": 161,
+    "2x Scope": 171,
+    "4x Scope": 183,
+    "AWM Scope": 133,
+    "Free Look": 163
+  },
+  "Oppo Find X3 Pro 10": {
+    "DPI": 408,
+    "General": 197,
+    "Red Dot": 168,
+    "2x Scope": 168,
+    "4x Scope": 197,
+    "AWM Scope": 188,
+    "Free Look": 133
+  },
+  "Infinix Zero 30 11": {
+    "DPI": 426,
+    "General": 196,
+    "Red Dot": 152,
+    "2x Scope": 163,
+    "4x Scope": 177,
+    "AWM Scope": 177,
+    "Free Look": 187
+  },
+  "Vivo V25 Pro 12": {
+    "DPI": 493,
+    "General": 173,
+    "Red Dot": 160,
+    "2x Scope": 176,
+    "4x Scope": 194,
+    "AWM Scope": 134,
+    "Free Look": 138
+  },
+  "iQOO Neo 7 13": {
+    "DPI": 467,
+    "General": 190,
+    "Red Dot": 179,
+    "2x Scope": 166,
+    "4x Scope": 179,
+    "AWM Scope": 182,
+    "Free Look": 194
+  },
+  "Infinix Note 12 Pro 14": {
+    "DPI": 460,
+    "General": 172,
+    "Red Dot": 199,
+    "2x Scope": 162,
+    "4x Scope": 184,
+    "AWM Scope": 159,
+    "Free Look": 174
+  },
+  "Vivo V27 Pro 15": {
+    "DPI": 472,
+    "General": 164,
+    "Red Dot": 182,
+    "2x Scope": 184,
+    "4x Scope": 189,
+    "AWM Scope": 199,
+    "Free Look": 147
+  },
+  "Xiaomi Black Shark 6 16": {
+    "DPI": 457,
+    "General": 195,
+    "Red Dot": 185,
+    "2x Scope": 185,
+    "4x Scope": 158,
+    "AWM Scope": 170,
+    "Free Look": 192
+  },
+  "Oppo Reno 8 Pro 17": {
+    "DPI": 433,
+    "General": 167,
+    "Red Dot": 150,
+    "2x Scope": 183,
+    "4x Scope": 171,
+    "AWM Scope": 193,
+    "Free Look": 137
+  },
+  "Motorola Edge 40 18": {
+    "DPI": 445,
+    "General": 187,
+    "Red Dot": 172,
+    "2x Scope": 181,
+    "4x Scope": 194,
+    "AWM Scope": 140,
+    "Free Look": 172
+  },
+  "Motorola Edge 30 19": {
+    "DPI": 469,
+    "General": 173,
+    "Red Dot": 200,
+    "2x Scope": 175,
+    "4x Scope": 153,
+    "AWM Scope": 194,
+    "Free Look": 140
+  },
+  "Motorola Moto G200 20": {
+    "DPI": 451,
+    "General": 200,
+    "Red Dot": 194,
+    "2x Scope": 169,
+    "4x Scope": 193,
+    "AWM Scope": 139,
+    "Free Look": 167
+  },
+  "Oppo Find X5 21": {
+    "DPI": 481,
+    "General": 191,
+    "Red Dot": 174,
+    "2x Scope": 168,
+    "4x Scope": 151,
+    "AWM Scope": 148,
+    "Free Look": 173
+  },
+  "iQOO Neo 7 22": {
+    "DPI": 490,
+    "General": 173,
+    "Red Dot": 177,
+    "2x Scope": 179,
+    "4x Scope": 159,
+    "AWM Scope": 158,
+    "Free Look": 186
+  },
+  "Poco F3 GT 23": {
+    "DPI": 480,
+    "General": 165,
+    "Red Dot": 187,
+    "2x Scope": 173,
+    "4x Scope": 160,
+    "AWM Scope": 157,
+    "Free Look": 200
+  },
+  "Oppo Find X5 24": {
+    "DPI": 452,
+    "General": 200,
+    "Red Dot": 195,
+    "2x Scope": 171,
+    "4x Scope": 197,
+    "AWM Scope": 149,
+    "Free Look": 182
+  },
+  "Xiaomi Poco X5 Pro 25": {
+    "DPI": 466,
+    "General": 179,
+    "Red Dot": 155,
+    "2x Scope": 151,
+    "4x Scope": 182,
+    "AWM Scope": 194,
+    "Free Look": 163
+  },
+  "Samsung Galaxy A53 26": {
+    "DPI": 486,
+    "General": 157,
+    "Red Dot": 166,
+    "2x Scope": 160,
+    "4x Scope": 153,
+    "AWM Scope": 138,
+    "Free Look": 185
+  },
+  "iQOO Neo 6 27": {
+    "DPI": 468,
+    "General": 200,
+    "Red Dot": 170,
+    "2x Scope": 181,
+    "4x Scope": 176,
+    "AWM Scope": 177,
+    "Free Look": 199
+  },
+  "Oppo Reno 8 Pro 28": {
+    "DPI": 436,
+    "General": 160,
+    "Red Dot": 165,
+    "2x Scope": 188,
+    "4x Scope": 180,
+    "AWM Scope": 161,
+    "Free Look": 182
+  },
+  "Oppo Reno 8 Pro 29": {
+    "DPI": 482,
+    "General": 183,
+    "Red Dot": 173,
+    "2x Scope": 197,
+    "4x Scope": 151,
+    "AWM Scope": 186,
+    "Free Look": 195
+  },
+  "Oppo Find X3 Pro 30": {
+    "DPI": 439,
+    "General": 172,
+    "Red Dot": 156,
+    "2x Scope": 164,
+    "4x Scope": 166,
+    "AWM Scope": 168,
+    "Free Look": 140
+  },
+  "Motorola Edge 40 31": {
+    "DPI": 465,
+    "General": 170,
+    "Red Dot": 193,
+    "2x Scope": 150,
+    "4x Scope": 190,
+    "AWM Scope": 161,
+    "Free Look": 178
+  },
+  "Infinix Zero Ultra 32": {
+    "DPI": 484,
+    "General": 194,
+    "Red Dot": 200,
+    "2x Scope": 153,
+    "4x Scope": 188,
+    "AWM Scope": 194,
+    "Free Look": 171
+  },
+  "Motorola Edge 20 Pro 33": {
+    "DPI": 480,
+    "General": 155,
+    "Red Dot": 159,
+    "2x Scope": 162,
+    "4x Scope": 170,
+    "AWM Scope": 152,
+    "Free Look": 167
+  },
+  "Vivo V27 Pro 34": {
+    "DPI": 469,
+    "General": 166,
+    "Red Dot": 159,
+    "2x Scope": 157,
+    "4x Scope": 179,
+    "AWM Scope": 190,
+    "Free Look": 183
+  },
+  "iQOO Neo 7 35": {
+    "DPI": 405,
+    "General": 153,
+    "Red Dot": 193,
+    "2x Scope": 154,
+    "4x Scope": 199,
+    "AWM Scope": 142,
+    "Free Look": 151
+  },
+  "Samsung Galaxy A53 36": {
+    "DPI": 446,
+    "General": 164,
+    "Red Dot": 188,
+    "2x Scope": 172,
+    "4x Scope": 150,
+    "AWM Scope": 144,
+    "Free Look": 182
+  },
+  "Motorola Edge 30 37": {
+    "DPI": 419,
+    "General": 172,
+    "Red Dot": 163,
+    "2x Scope": 197,
+    "4x Scope": 182,
+    "AWM Scope": 190,
+    "Free Look": 159
+  },
+  "Poco X5 Pro 38": {
+    "DPI": 494,
+    "General": 178,
+    "Red Dot": 192,
+    "2x Scope": 177,
+    "4x Scope": 191,
+    "AWM Scope": 149,
+    "Free Look": 169
+  },
+  "Realme GT Neo 5 39": {
+    "DPI": 410,
+    "General": 175,
+    "Red Dot": 160,
+    "2x Scope": 185,
+    "4x Scope": 200,
+    "AWM Scope": 186,
+    "Free Look": 187
+  },
+  "Infinix Zero Ultra 40": {
+    "DPI": 454,
+    "General": 151,
+    "Red Dot": 177,
+    "2x Scope": 156,
+    "4x Scope": 166,
+    "AWM Scope": 175,
+    "Free Look": 151
+  },
+  "Xiaomi Redmi Note 12 Pro 41": {
+    "DPI": 455,
+    "General": 182,
+    "Red Dot": 200,
+    "2x Scope": 187,
+    "4x Scope": 194,
+    "AWM Scope": 169,
+    "Free Look": 182
+  },
+  "Oppo Find X5 42": {
+    "DPI": 431,
+    "General": 160,
+    "Red Dot": 174,
+    "2x Scope": 182,
+    "4x Scope": 160,
+    "AWM Scope": 165,
+    "Free Look": 144
+  },
+  "Vivo V25 Pro 43": {
+    "DPI": 421,
+    "General": 189,
+    "Red Dot": 174,
+    "2x Scope": 200,
+    "4x Scope": 181,
+    "AWM Scope": 142,
+    "Free Look": 136
+  },
+  "Poco X5 Pro 44": {
+    "DPI": 450,
+    "General": 174,
+    "Red Dot": 199,
+    "2x Scope": 159,
+    "4x Scope": 160,
+    "AWM Scope": 170,
+    "Free Look": 188
+  },
+  "Realme Realme 11 Pro 45": {
+    "DPI": 475,
+    "General": 163,
+    "Red Dot": 192,
+    "2x Scope": 184,
+    "4x Scope": 189,
+    "AWM Scope": 183,
+    "Free Look": 153
+  },
+  "Motorola Moto G200 46": {
+    "DPI": 428,
+    "General": 151,
+    "Red Dot": 180,
+    "2x Scope": 153,
+    "4x Scope": 157,
+    "AWM Scope": 179,
+    "Free Look": 200
+  },
+  "Xiaomi Redmi Note 11 Pro 47": {
+    "DPI": 453,
+    "General": 162,
+    "Red Dot": 174,
+    "2x Scope": 151,
+    "4x Scope": 186,
+    "AWM Scope": 180,
+    "Free Look": 200
+  },
+  "Realme GT Master Edition 48": {
+    "DPI": 457,
+    "General": 169,
+    "Red Dot": 191,
+    "2x Scope": 186,
+    "4x Scope": 180,
+    "AWM Scope": 155,
+    "Free Look": 136
+  },
+  "Vivo iQOO 11 49": {
+    "DPI": 403,
+    "General": 152,
+    "Red Dot": 182,
+    "2x Scope": 167,
+    "4x Scope": 188,
+    "AWM Scope": 156,
+    "Free Look": 138
+  },
+  "Oppo Reno 9 Pro 50": {
+    "DPI": 481,
+    "General": 175,
+    "Red Dot": 165,
+    "2x Scope": 176,
+    "4x Scope": 158,
+    "AWM Scope": 183,
+    "Free Look": 166
+  },
+  "Vivo V25 Pro 51": {
+    "DPI": 412,
+    "General": 174,
+    "Red Dot": 163,
+    "2x Scope": 171,
+    "4x Scope": 181,
+    "AWM Scope": 197,
+    "Free Look": 199
+  },
+  "Vivo V25 Pro 52": {
+    "DPI": 475,
+    "General": 190,
+    "Red Dot": 193,
+    "2x Scope": 189,
+    "4x Scope": 173,
+    "AWM Scope": 178,
+    "Free Look": 159
+  },
+  "Poco X3 Pro 53": {
+    "DPI": 498,
+    "General": 196,
+    "Red Dot": 189,
+    "2x Scope": 153,
+    "4x Scope": 159,
+    "AWM Scope": 160,
+    "Free Look": 155
+  },
+  "Samsung Galaxy A53 54": {
+    "DPI": 458,
+    "General": 151,
+    "Red Dot": 163,
+    "2x Scope": 198,
+    "4x Scope": 161,
+    "AWM Scope": 157,
+    "Free Look": 177
+  },
+  "Realme GT Master Edition 55": {
+    "DPI": 430,
+    "General": 171,
+    "Red Dot": 186,
+    "2x Scope": 187,
+    "4x Scope": 158,
+    "AWM Scope": 150,
+    "Free Look": 150
+  },
+  "Infinix Zero 30 56": {
+    "DPI": 424,
+    "General": 173,
+    "Red Dot": 191,
+    "2x Scope": 164,
+    "4x Scope": 199,
+    "AWM Scope": 181,
+    "Free Look": 154
+  },
+  "Samsung Galaxy Z Fold 5 57": {
+    "DPI": 473,
+    "General": 152,
+    "Red Dot": 194,
+    "2x Scope": 183,
+    "4x Scope": 179,
+    "AWM Scope": 199,
+    "Free Look": 164
+  },
+  "Poco X5 Pro 58": {
+    "DPI": 488,
+    "General": 178,
+    "Red Dot": 152,
+    "2x Scope": 199,
+    "4x Scope": 194,
+    "AWM Scope": 151,
+    "Free Look": 176
+  },
+  "Motorola Moto G200 59": {
+    "DPI": 499,
+    "General": 156,
+    "Red Dot": 189,
+    "2x Scope": 167,
+    "4x Scope": 154,
+    "AWM Scope": 193,
+    "Free Look": 130
+  },
+  "Xiaomi Black Shark 6 60": {
+    "DPI": 408,
+    "General": 198,
+    "Red Dot": 173,
+    "2x Scope": 159,
+    "4x Scope": 170,
+    "AWM Scope": 167,
+    "Free Look": 194
+  },
+  "Poco F4 GT 61": {
+    "DPI": 445,
+    "General": 153,
+    "Red Dot": 197,
+    "2x Scope": 168,
+    "4x Scope": 181,
+    "AWM Scope": 167,
+    "Free Look": 159
+  },
+  "Poco F3 GT 62": {
+    "DPI": 476,
+    "General": 189,
+    "Red Dot": 161,
+    "2x Scope": 165,
+    "4x Scope": 171,
+    "AWM Scope": 184,
+    "Free Look": 163
+  },
+  "Vivo iQOO 11 63": {
+    "DPI": 456,
+    "General": 184,
+    "Red Dot": 150,
+    "2x Scope": 181,
+    "4x Scope": 164,
+    "AWM Scope": 166,
+    "Free Look": 191
+  },
+  "Vivo V23 64": {
+    "DPI": 472,
+    "General": 155,
+    "Red Dot": 177,
+    "2x Scope": 155,
+    "4x Scope": 150,
+    "AWM Scope": 181,
+    "Free Look": 161
+  },
+  "Motorola Edge 30 65": {
+    "DPI": 485,
+    "General": 162,
+    "Red Dot": 180,
+    "2x Scope": 154,
+    "4x Scope": 193,
+    "AWM Scope": 149,
+    "Free Look": 189
+  },
+  "Realme GT Master Edition 66": {
+    "DPI": 459,
+    "General": 162,
+    "Red Dot": 191,
+    "2x Scope": 150,
+    "4x Scope": 161,
+    "AWM Scope": 198,
+    "Free Look": 157
+  },
+  "Xiaomi Mi 13 67": {
+    "DPI": 496,
+    "General": 152,
+    "Red Dot": 194,
+    "2x Scope": 183,
+    "4x Scope": 196,
+    "AWM Scope": 132,
+    "Free Look": 179
+  },
+  "Oppo Reno 9 Pro 68": {
+    "DPI": 461,
+    "General": 152,
+    "Red Dot": 193,
+    "2x Scope": 192,
+    "4x Scope": 151,
+    "AWM Scope": 138,
+    "Free Look": 171
+  },
+  "Samsung Galaxy Z Fold 5 69": {
+    "DPI": 458,
+    "General": 153,
+    "Red Dot": 188,
+    "2x Scope": 161,
+    "4x Scope": 198,
+    "AWM Scope": 163,
+    "Free Look": 159
+  },
+  "Realme Realme 11 Pro 70": {
+    "DPI": 465,
+    "General": 196,
+    "Red Dot": 189,
+    "2x Scope": 172,
+    "4x Scope": 199,
+    "AWM Scope": 184,
+    "Free Look": 156
+  },
+  "Xiaomi Poco X5 Pro 71": {
+    "DPI": 411,
+    "General": 174,
+    "Red Dot": 162,
+    "2x Scope": 188,
+    "4x Scope": 199,
+    "AWM Scope": 152,
+    "Free Look": 171
+  },
+  "Motorola Edge 20 Pro 72": {
+    "DPI": 493,
+    "General": 168,
+    "Red Dot": 156,
+    "2x Scope": 199,
+    "4x Scope": 160,
+    "AWM Scope": 163,
+    "Free Look": 191
+  },
+  "Vivo V27 Pro 73": {
+    "DPI": 409,
+    "General": 174,
+    "Red Dot": 174,
+    "2x Scope": 164,
+    "4x Scope": 200,
+    "AWM Scope": 187,
+    "Free Look": 170
+  },
+  "iQOO Neo 6 74": {
+    "DPI": 404,
+    "General": 153,
+    "Red Dot": 154,
+    "2x Scope": 186,
+    "4x Scope": 197,
+    "AWM Scope": 188,
+    "Free Look": 176
+  },
+  "Poco F4 GT 75": {
+    "DPI": 405,
+    "General": 161,
+    "Red Dot": 157,
+    "2x Scope": 179,
+    "4x Scope": 185,
+    "AWM Scope": 145,
+    "Free Look": 185
+  },
+  "iQOO Neo 7 76": {
+    "DPI": 413,
+    "General": 196,
+    "Red Dot": 178,
+    "2x Scope": 196,
+    "4x Scope": 174,
+    "AWM Scope": 190,
+    "Free Look": 144
+  },
+  "Poco F3 GT 77": {
+    "DPI": 415,
+    "General": 189,
+    "Red Dot": 170,
+    "2x Scope": 192,
+    "4x Scope": 153,
+    "AWM Scope": 177,
+    "Free Look": 135
+  },
+  "Poco F4 GT 78": {
+    "DPI": 445,
+    "General": 165,
+    "Red Dot": 156,
+    "2x Scope": 185,
+    "4x Scope": 160,
+    "AWM Scope": 175,
+    "Free Look": 154
+  },
+  "Samsung Galaxy A53 79": {
+    "DPI": 451,
+    "General": 161,
+    "Red Dot": 189,
+    "2x Scope": 184,
+    "4x Scope": 179,
+    "AWM Scope": 144,
+    "Free Look": 160
+  },
+  "Samsung Galaxy S23 80": {
+    "DPI": 429,
+    "General": 176,
+    "Red Dot": 165,
+    "2x Scope": 151,
+    "4x Scope": 161,
+    "AWM Scope": 153,
+    "Free Look": 186
+  },
+  "Poco X3 Pro 81": {
+    "DPI": 428,
+    "General": 200,
+    "Red Dot": 171,
+    "2x Scope": 200,
+    "4x Scope": 170,
+    "AWM Scope": 199,
+    "Free Look": 194
+  },
+  "Xiaomi Black Shark 6 82": {
+    "DPI": 459,
+    "General": 192,
+    "Red Dot": 168,
+    "2x Scope": 155,
+    "4x Scope": 154,
+    "AWM Scope": 173,
+    "Free Look": 190
+  },
+  "Poco X3 Pro 83": {
+    "DPI": 408,
+    "General": 189,
+    "Red Dot": 167,
+    "2x Scope": 182,
+    "4x Scope": 182,
+    "AWM Scope": 148,
+    "Free Look": 167
+  },
+  "Vivo iQOO 10 84": {
+    "DPI": 449,
+    "General": 179,
+    "Red Dot": 174,
+    "2x Scope": 176,
+    "4x Scope": 180,
+    "AWM Scope": 169,
+    "Free Look": 169
+  },
+  "Samsung Galaxy S23 85": {
+    "DPI": 439,
+    "General": 153,
+    "Red Dot": 171,
+    "2x Scope": 168,
+    "4x Scope": 165,
+    "AWM Scope": 150,
+    "Free Look": 134
+  },
+  "Samsung Galaxy S23 86": {
+    "DPI": 455,
+    "General": 198,
+    "Red Dot": 170,
+    "2x Scope": 156,
+    "4x Scope": 197,
+    "AWM Scope": 165,
+    "Free Look": 186
+  },
+  "Xiaomi Black Shark 6 87": {
+    "DPI": 431,
+    "General": 177,
+    "Red Dot": 152,
+    "2x Scope": 150,
+    "4x Scope": 195,
+    "AWM Scope": 135,
+    "Free Look": 175
+  },
+  "Xiaomi Redmi Note 12 Pro 88": {
+    "DPI": 416,
+    "General": 183,
+    "Red Dot": 167,
+    "2x Scope": 171,
+    "4x Scope": 172,
+    "AWM Scope": 146,
+    "Free Look": 163
+  },
+  "Motorola Edge 20 Pro 89": {
+    "DPI": 461,
+    "General": 156,
+    "Red Dot": 171,
+    "2x Scope": 196,
+    "4x Scope": 154,
+    "AWM Scope": 178,
+    "Free Look": 143
+  },
+  "Realme Realme X7 Max 90": {
+    "DPI": 458,
+    "General": 168,
+    "Red Dot": 150,
+    "2x Scope": 170,
+    "4x Scope": 156,
+    "AWM Scope": 152,
+    "Free Look": 164
+  },
+  "Oppo Find X5 91": {
+    "DPI": 465,
+    "General": 160,
+    "Red Dot": 180,
+    "2x Scope": 190,
+    "4x Scope": 176,
+    "AWM Scope": 189,
+    "Free Look": 150
+  },
+  "Poco F4 GT 92": {
+    "DPI": 426,
+    "General": 195,
+    "Red Dot": 183,
+    "2x Scope": 168,
+    "4x Scope": 179,
+    "AWM Scope": 163,
+    "Free Look": 174
+  },
+  "Motorola Edge 40 93": {
+    "DPI": 403,
+    "General": 160,
+    "Red Dot": 176,
+    "2x Scope": 193,
+    "4x Scope": 163,
+    "AWM Scope": 153,
+    "Free Look": 166
+  },
+  "iQOO Neo 6 94": {
+    "DPI": 427,
+    "General": 151,
+    "Red Dot": 200,
+    "2x Scope": 172,
+    "4x Scope": 176,
+    "AWM Scope": 160,
+    "Free Look": 190
+  },
+  "Infinix Zero 30 95": {
+    "DPI": 403,
+    "General": 173,
+    "Red Dot": 184,
+    "2x Scope": 188,
+    "4x Scope": 181,
+    "AWM Scope": 167,
+    "Free Look": 197
+  },
+  "Realme Realme X7 Max 96": {
+    "DPI": 402,
+    "General": 196,
+    "Red Dot": 189,
+    "2x Scope": 190,
+    "4x Scope": 150,
+    "AWM Scope": 138,
+    "Free Look": 144
+  },
+  "Samsung Galaxy S23 97": {
+    "DPI": 462,
+    "General": 161,
+    "Red Dot": 199,
+    "2x Scope": 173,
+    "4x Scope": 193,
+    "AWM Scope": 143,
+    "Free Look": 144
+  },
+  "Samsung Galaxy Z Fold 5 98": {
+    "DPI": 491,
+    "General": 173,
+    "Red Dot": 165,
+    "2x Scope": 161,
+    "4x Scope": 154,
+    "AWM Scope": 136,
+    "Free Look": 151
+  },
+  "Realme GT 2 Pro 99": {
+    "DPI": 411,
+    "General": 172,
+    "Red Dot": 167,
+    "2x Scope": 154,
+    "4x Scope": 174,
+    "AWM Scope": 147,
+    "Free Look": 150
+  },
+  "Motorola Edge 40 100": {
+    "DPI": 464,
+    "General": 164,
+    "Red Dot": 185,
+    "2x Scope": 186,
+    "4x Scope": 171,
+    "AWM Scope": 177,
+    "Free Look": 178
+  },
+  "Motorola Edge 40 101": {
+    "DPI": 409,
+    "General": 166,
+    "Red Dot": 180,
+    "2x Scope": 177,
+    "4x Scope": 193,
+    "AWM Scope": 195,
+    "Free Look": 185
+  },
+  "Vivo V25 Pro 102": {
+    "DPI": 424,
+    "General": 190,
+    "Red Dot": 166,
+    "2x Scope": 156,
+    "4x Scope": 185,
+    "AWM Scope": 186,
+    "Free Look": 136
+  },
+  "Realme GT Neo 5 103": {
+    "DPI": 465,
+    "General": 198,
+    "Red Dot": 183,
+    "2x Scope": 197,
+    "4x Scope": 190,
+    "AWM Scope": 186,
+    "Free Look": 152
+  },
+  "Infinix Zero 30 104": {
+    "DPI": 462,
+    "General": 160,
+    "Red Dot": 158,
+    "2x Scope": 166,
+    "4x Scope": 183,
+    "AWM Scope": 171,
+    "Free Look": 198
+  },
+  "iQOO Z7 Pro 105": {
+    "DPI": 479,
+    "General": 183,
+    "Red Dot": 158,
+    "2x Scope": 167,
+    "4x Scope": 185,
+    "AWM Scope": 161,
+    "Free Look": 145
+  },
+  "iQOO Neo 7 106": {
+    "DPI": 478,
+    "General": 155,
+    "Red Dot": 171,
+    "2x Scope": 198,
+    "4x Scope": 187,
+    "AWM Scope": 160,
+    "Free Look": 133
+  },
+  "Vivo V23 107": {
+    "DPI": 415,
+    "General": 197,
+    "Red Dot": 186,
+    "2x Scope": 176,
+    "4x Scope": 162,
+    "AWM Scope": 157,
+    "Free Look": 150
+  },
+  "Motorola Moto G200 108": {
+    "DPI": 456,
+    "General": 153,
+    "Red Dot": 182,
+    "2x Scope": 172,
+    "4x Scope": 199,
+    "AWM Scope": 183,
+    "Free Look": 170
+  },
+  "Xiaomi Black Shark 6 109": {
+    "DPI": 457,
+    "General": 155,
+    "Red Dot": 176,
+    "2x Scope": 158,
+    "4x Scope": 183,
+    "AWM Scope": 140,
+    "Free Look": 143
+  },
+  "Poco F4 GT 110": {
+    "DPI": 420,
+    "General": 187,
+    "Red Dot": 192,
+    "2x Scope": 180,
+    "4x Scope": 151,
+    "AWM Scope": 171,
+    "Free Look": 153
+  },
+  "Infinix Zero 30 111": {
+    "DPI": 414,
+    "General": 167,
+    "Red Dot": 169,
+    "2x Scope": 152,
+    "4x Scope": 163,
+    "AWM Scope": 185,
+    "Free Look": 174
+  },
+  "Realme GT Neo 5 112": {
+    "DPI": 486,
+    "General": 184,
+    "Red Dot": 160,
+    "2x Scope": 184,
+    "4x Scope": 184,
+    "AWM Scope": 136,
+    "Free Look": 164
+  },
+  "Motorola Edge 30 113": {
+    "DPI": 477,
+    "General": 158,
+    "Red Dot": 178,
+    "2x Scope": 174,
+    "4x Scope": 188,
+    "AWM Scope": 197,
+    "Free Look": 145
+  },
+  "Vivo iQOO 10 114": {
+    "DPI": 445,
+    "General": 173,
+    "Red Dot": 183,
+    "2x Scope": 171,
+    "4x Scope": 155,
+    "AWM Scope": 155,
+    "Free Look": 146
+  },
+  "iQOO Z6 Pro 115": {
+    "DPI": 427,
+    "General": 196,
+    "Red Dot": 178,
+    "2x Scope": 185,
+    "4x Scope": 164,
+    "AWM Scope": 166,
+    "Free Look": 157
+  },
+  "Motorola Edge 30 116": {
+    "DPI": 479,
+    "General": 151,
+    "Red Dot": 200,
+    "2x Scope": 195,
+    "4x Scope": 186,
+    "AWM Scope": 175,
+    "Free Look": 182
+  },
+  "Poco X3 Pro 117": {
+    "DPI": 441,
+    "General": 190,
+    "Red Dot": 150,
+    "2x Scope": 160,
+    "4x Scope": 173,
+    "AWM Scope": 146,
+    "Free Look": 187
+  },
+  "Realme GT Master Edition 118": {
+    "DPI": 461,
+    "General": 184,
+    "Red Dot": 199,
+    "2x Scope": 174,
+    "4x Scope": 169,
+    "AWM Scope": 145,
+    "Free Look": 184
+  },
+  "Xiaomi Black Shark 6 119": {
+    "DPI": 457,
+    "General": 161,
+    "Red Dot": 155,
+    "2x Scope": 191,
+    "4x Scope": 195,
+    "AWM Scope": 130,
+    "Free Look": 160
+  },
+  "Oppo Reno 9 Pro 120": {
+    "DPI": 454,
+    "General": 190,
+    "Red Dot": 166,
+    "2x Scope": 162,
+    "4x Scope": 154,
+    "AWM Scope": 190,
+    "Free Look": 159
+  },
+  "Motorola Edge 40 121": {
+    "DPI": 401,
+    "General": 168,
+    "Red Dot": 198,
+    "2x Scope": 181,
+    "4x Scope": 171,
+    "AWM Scope": 131,
+    "Free Look": 163
+  },
+  "Oppo Reno 8 Pro 122": {
+    "DPI": 403,
+    "General": 151,
+    "Red Dot": 182,
+    "2x Scope": 194,
+    "4x Scope": 174,
+    "AWM Scope": 165,
+    "Free Look": 144
+  },
+  "Infinix Zero Ultra 123": {
+    "DPI": 478,
+    "General": 165,
+    "Red Dot": 179,
+    "2x Scope": 157,
+    "4x Scope": 176,
+    "AWM Scope": 131,
+    "Free Look": 157
+  },
+  "Xiaomi Mi 13 124": {
+    "DPI": 484,
+    "General": 169,
+    "Red Dot": 163,
+    "2x Scope": 153,
+    "4x Scope": 175,
+    "AWM Scope": 195,
+    "Free Look": 173
+  },
+  "Poco X3 Pro 125": {
+    "DPI": 445,
+    "General": 153,
+    "Red Dot": 159,
+    "2x Scope": 159,
+    "4x Scope": 165,
+    "AWM Scope": 154,
+    "Free Look": 178
+  },
+  "Motorola Edge 40 126": {
+    "DPI": 477,
+    "General": 194,
+    "Red Dot": 199,
+    "2x Scope": 197,
+    "4x Scope": 180,
+    "AWM Scope": 157,
+    "Free Look": 171
+  },
+  "Xiaomi Redmi Note 12 Pro 127": {
+    "DPI": 498,
+    "General": 179,
+    "Red Dot": 181,
+    "2x Scope": 163,
+    "4x Scope": 169,
+    "AWM Scope": 149,
+    "Free Look": 172
+  },
+  "Oppo Find X3 Pro 128": {
+    "DPI": 402,
+    "General": 180,
+    "Red Dot": 171,
+    "2x Scope": 161,
+    "4x Scope": 172,
+    "AWM Scope": 172,
+    "Free Look": 181
+  },
+  "Motorola Moto G200 129": {
+    "DPI": 455,
+    "General": 186,
+    "Red Dot": 184,
+    "2x Scope": 198,
+    "4x Scope": 172,
+    "AWM Scope": 187,
+    "Free Look": 138
+  },
+  "Oppo Reno 7 130": {
+    "DPI": 407,
+    "General": 163,
+    "Red Dot": 185,
+    "2x Scope": 155,
+    "4x Scope": 159,
+    "AWM Scope": 197,
+    "Free Look": 158
+  },
+  "Motorola Edge 40 131": {
+    "DPI": 465,
+    "General": 178,
+    "Red Dot": 164,
+    "2x Scope": 183,
+    "4x Scope": 199,
+    "AWM Scope": 166,
+    "Free Look": 150
+  },
+  "Vivo V23 132": {
+    "DPI": 432,
+    "General": 160,
+    "Red Dot": 160,
+    "2x Scope": 180,
+    "4x Scope": 180,
+    "AWM Scope": 186,
+    "Free Look": 167
+  },
+  "Xiaomi Redmi Note 11 Pro 133": {
+    "DPI": 471,
+    "General": 160,
+    "Red Dot": 192,
+    "2x Scope": 164,
+    "4x Scope": 200,
+    "AWM Scope": 158,
+    "Free Look": 197
+  },
+  "Oppo Reno 8 Pro 134": {
+    "DPI": 497,
+    "General": 153,
+    "Red Dot": 185,
+    "2x Scope": 185,
+    "4x Scope": 163,
+    "AWM Scope": 144,
+    "Free Look": 141
+  },
+  "Xiaomi Black Shark 6 135": {
+    "DPI": 434,
+    "General": 185,
+    "Red Dot": 188,
+    "2x Scope": 164,
+    "4x Scope": 159,
+    "AWM Scope": 161,
+    "Free Look": 196
+  },
+  "Infinix Zero 20 136": {
+    "DPI": 495,
+    "General": 180,
+    "Red Dot": 193,
+    "2x Scope": 161,
+    "4x Scope": 185,
+    "AWM Scope": 178,
+    "Free Look": 200
+  },
+  "Oppo Find X5 137": {
+    "DPI": 465,
+    "General": 155,
+    "Red Dot": 164,
+    "2x Scope": 155,
+    "4x Scope": 166,
+    "AWM Scope": 158,
+    "Free Look": 138
+  },
+  "Infinix Zero Ultra 138": {
+    "DPI": 495,
+    "General": 159,
+    "Red Dot": 169,
+    "2x Scope": 197,
+    "4x Scope": 153,
+    "AWM Scope": 195,
+    "Free Look": 138
+  },
+  "Oppo Find X3 Pro 139": {
+    "DPI": 468,
+    "General": 181,
+    "Red Dot": 172,
+    "2x Scope": 159,
+    "4x Scope": 197,
+    "AWM Scope": 172,
+    "Free Look": 187
+  },
+  "iQOO Neo 5 140": {
+    "DPI": 424,
+    "General": 155,
+    "Red Dot": 175,
+    "2x Scope": 182,
+    "4x Scope": 179,
+    "AWM Scope": 188,
+    "Free Look": 169
+  },
+  "Infinix Note 30 141": {
+    "DPI": 480,
+    "General": 184,
+    "Red Dot": 157,
+    "2x Scope": 160,
+    "4x Scope": 185,
+    "AWM Scope": 178,
+    "Free Look": 144
+  },
+  "Motorola Edge 30 142": {
+    "DPI": 448,
+    "General": 186,
+    "Red Dot": 176,
+    "2x Scope": 197,
+    "4x Scope": 155,
+    "AWM Scope": 143,
+    "Free Look": 197
+  },
+  "Vivo V23 143": {
+    "DPI": 405,
+    "General": 178,
+    "Red Dot": 175,
+    "2x Scope": 191,
+    "4x Scope": 173,
+    "AWM Scope": 156,
+    "Free Look": 159
+  },
+  "Xiaomi Redmi Note 12 Pro 144": {
+    "DPI": 445,
+    "General": 181,
+    "Red Dot": 189,
+    "2x Scope": 162,
+    "4x Scope": 200,
+    "AWM Scope": 142,
+    "Free Look": 187
+  },
+  "Samsung Galaxy Z Fold 5 145": {
+    "DPI": 430,
+    "General": 188,
+    "Red Dot": 183,
+    "2x Scope": 176,
+    "4x Scope": 165,
+    "AWM Scope": 143,
+    "Free Look": 171
+  },
+  "Vivo V25 Pro 146": {
+    "DPI": 435,
+    "General": 169,
+    "Red Dot": 172,
+    "2x Scope": 187,
+    "4x Scope": 163,
+    "AWM Scope": 168,
+    "Free Look": 173
+  },
+  "Xiaomi Black Shark 6 147": {
+    "DPI": 401,
+    "General": 156,
+    "Red Dot": 154,
+    "2x Scope": 181,
+    "4x Scope": 192,
+    "AWM Scope": 136,
+    "Free Look": 158
+  },
+  "Infinix Note 12 Pro 148": {
+    "DPI": 486,
+    "General": 181,
+    "Red Dot": 189,
+    "2x Scope": 180,
+    "4x Scope": 179,
+    "AWM Scope": 138,
+    "Free Look": 176
+  },
+  "Vivo V25 Pro 149": {
+    "DPI": 461,
+    "General": 157,
+    "Red Dot": 176,
+    "2x Scope": 200,
+    "4x Scope": 151,
+    "AWM Scope": 133,
+    "Free Look": 138
+  },
+  "Infinix Note 12 Pro 150": {
+    "DPI": 454,
+    "General": 184,
+    "Red Dot": 182,
+    "2x Scope": 166,
+    "4x Scope": 174,
+    "AWM Scope": 171,
+    "Free Look": 175
+  },
+  "Infinix Note 30 151": {
+    "DPI": 481,
+    "General": 156,
+    "Red Dot": 175,
+    "2x Scope": 163,
+    "4x Scope": 174,
+    "AWM Scope": 158,
+    "Free Look": 189
+  },
+  "iQOO Neo 5 152": {
+    "DPI": 415,
+    "General": 162,
+    "Red Dot": 200,
+    "2x Scope": 156,
+    "4x Scope": 191,
+    "AWM Scope": 194,
+    "Free Look": 158
+  },
+  "Poco F4 GT 153": {
+    "DPI": 442,
+    "General": 184,
+    "Red Dot": 195,
+    "2x Scope": 198,
+    "4x Scope": 182,
+    "AWM Scope": 141,
+    "Free Look": 179
+  },
+  "Xiaomi Poco X5 Pro 154": {
+    "DPI": 465,
+    "General": 153,
+    "Red Dot": 163,
+    "2x Scope": 179,
+    "4x Scope": 164,
+    "AWM Scope": 194,
+    "Free Look": 187
+  },
+  "Samsung Galaxy A53 155": {
+    "DPI": 465,
+    "General": 189,
+    "Red Dot": 180,
+    "2x Scope": 165,
+    "4x Scope": 158,
+    "AWM Scope": 199,
+    "Free Look": 197
+  },
+  "Motorola Edge 30 Ultra 156": {
+    "DPI": 496,
+    "General": 152,
+    "Red Dot": 170,
+    "2x Scope": 194,
+    "4x Scope": 151,
+    "AWM Scope": 172,
+    "Free Look": 189
+  },
+  "Oppo Reno 7 157": {
+    "DPI": 420,
+    "General": 182,
+    "Red Dot": 198,
+    "2x Scope": 194,
+    "4x Scope": 157,
+    "AWM Scope": 168,
+    "Free Look": 176
+  },
+  "iQOO Neo 7 158": {
+    "DPI": 449,
+    "General": 177,
+    "Red Dot": 187,
+    "2x Scope": 183,
+    "4x Scope": 174,
+    "AWM Scope": 162,
+    "Free Look": 143
+  },
+  "iQOO Neo 6 159": {
+    "DPI": 442,
+    "General": 167,
+    "Red Dot": 161,
+    "2x Scope": 172,
+    "4x Scope": 198,
+    "AWM Scope": 176,
+    "Free Look": 177
+  },
+  "Xiaomi Mi 13 160": {
+    "DPI": 494,
+    "General": 153,
+    "Red Dot": 189,
+    "2x Scope": 165,
+    "4x Scope": 185,
+    "AWM Scope": 131,
+    "Free Look": 168
+  },
+  "Motorola Edge 30 Ultra 161": {
+    "DPI": 489,
+    "General": 158,
+    "Red Dot": 186,
+    "2x Scope": 182,
+    "4x Scope": 151,
+    "AWM Scope": 134,
+    "Free Look": 194
+  },
+  "Motorola Edge 30 Ultra 162": {
+    "DPI": 460,
+    "General": 169,
+    "Red Dot": 165,
+    "2x Scope": 184,
+    "4x Scope": 156,
+    "AWM Scope": 174,
+    "Free Look": 132
+  },
+  "iQOO Neo 5 163": {
+    "DPI": 462,
+    "General": 168,
+    "Red Dot": 181,
+    "2x Scope": 174,
+    "4x Scope": 152,
+    "AWM Scope": 137,
+    "Free Look": 167
+  },
+  "Infinix Zero 30 164": {
+    "DPI": 419,
+    "General": 183,
+    "Red Dot": 152,
+    "2x Scope": 199,
+    "4x Scope": 154,
+    "AWM Scope": 191,
+    "Free Look": 149
+  },
+  "Motorola Edge 40 165": {
+    "DPI": 431,
+    "General": 170,
+    "Red Dot": 168,
+    "2x Scope": 160,
+    "4x Scope": 154,
+    "AWM Scope": 154,
+    "Free Look": 143
+  },
+  "iQOO Neo 5 166": {
+    "DPI": 456,
+    "General": 182,
+    "Red Dot": 162,
+    "2x Scope": 196,
+    "4x Scope": 189,
+    "AWM Scope": 183,
+    "Free Look": 167
+  },
+  "Poco F3 GT 167": {
+    "DPI": 406,
+    "General": 168,
+    "Red Dot": 151,
+    "2x Scope": 164,
+    "4x Scope": 175,
+    "AWM Scope": 166,
+    "Free Look": 157
+  },
+  "Motorola Edge 30 168": {
+    "DPI": 453,
+    "General": 157,
+    "Red Dot": 165,
+    "2x Scope": 200,
+    "4x Scope": 175,
+    "AWM Scope": 172,
+    "Free Look": 165
+  },
+  "Oppo Find X3 Pro 169": {
+    "DPI": 410,
+    "General": 197,
+    "Red Dot": 193,
+    "2x Scope": 179,
+    "4x Scope": 185,
+    "AWM Scope": 142,
+    "Free Look": 161
+  },
+  "Samsung Galaxy Z Fold 5 170": {
+    "DPI": 480,
+    "General": 198,
+    "Red Dot": 199,
+    "2x Scope": 189,
+    "4x Scope": 167,
+    "AWM Scope": 194,
+    "Free Look": 136
+  },
+  "Oppo Reno 7 171": {
+    "DPI": 431,
+    "General": 194,
+    "Red Dot": 185,
+    "2x Scope": 173,
+    "4x Scope": 191,
+    "AWM Scope": 168,
+    "Free Look": 156
+  },
+  "Motorola Edge 20 Pro 172": {
+    "DPI": 428,
+    "General": 169,
+    "Red Dot": 167,
+    "2x Scope": 187,
+    "4x Scope": 161,
+    "AWM Scope": 130,
+    "Free Look": 147
+  },
+  "iQOO Z7 Pro 173": {
+    "DPI": 479,
+    "General": 183,
+    "Red Dot": 185,
+    "2x Scope": 183,
+    "4x Scope": 199,
+    "AWM Scope": 200,
+    "Free Look": 150
+  },
+  "Infinix Zero 30 174": {
+    "DPI": 401,
+    "General": 164,
+    "Red Dot": 188,
+    "2x Scope": 194,
+    "4x Scope": 176,
+    "AWM Scope": 176,
+    "Free Look": 171
+  },
+  "Xiaomi Redmi Note 11 Pro 175": {
+    "DPI": 441,
+    "General": 181,
+    "Red Dot": 166,
+    "2x Scope": 187,
+    "4x Scope": 160,
+    "AWM Scope": 174,
+    "Free Look": 167
+  },
+  "Poco X5 Pro 176": {
+    "DPI": 402,
+    "General": 165,
+    "Red Dot": 179,
+    "2x Scope": 183,
+    "4x Scope": 172,
+    "AWM Scope": 196,
+    "Free Look": 134
+  },
+  "Infinix Zero 20 177": {
+    "DPI": 449,
+    "General": 195,
+    "Red Dot": 184,
+    "2x Scope": 187,
+    "4x Scope": 170,
+    "AWM Scope": 162,
+    "Free Look": 179
+  },
+  "Xiaomi Black Shark 6 178": {
+    "DPI": 437,
+    "General": 188,
+    "Red Dot": 190,
+    "2x Scope": 158,
+    "4x Scope": 174,
+    "AWM Scope": 190,
+    "Free Look": 169
+  },
+  "Poco X4 Pro 179": {
+    "DPI": 488,
+    "General": 197,
+    "Red Dot": 196,
+    "2x Scope": 194,
+    "4x Scope": 156,
+    "AWM Scope": 153,
+    "Free Look": 192
+  },
+  "Realme Realme 11 Pro 180": {
+    "DPI": 441,
+    "General": 180,
+    "Red Dot": 173,
+    "2x Scope": 165,
+    "4x Scope": 183,
+    "AWM Scope": 200,
+    "Free Look": 178
+  },
+  "Xiaomi Redmi Note 11 Pro 181": {
+    "DPI": 475,
+    "General": 175,
+    "Red Dot": 174,
+    "2x Scope": 197,
+    "4x Scope": 154,
+    "AWM Scope": 177,
+    "Free Look": 200
+  },
+  "Samsung Galaxy A53 182": {
+    "DPI": 429,
+    "General": 181,
+    "Red Dot": 170,
+    "2x Scope": 171,
+    "4x Scope": 166,
+    "AWM Scope": 184,
+    "Free Look": 177
+  },
+  "Oppo Find X5 183": {
+    "DPI": 460,
+    "General": 160,
+    "Red Dot": 183,
+    "2x Scope": 152,
+    "4x Scope": 166,
+    "AWM Scope": 192,
+    "Free Look": 159
+  },
+  "Motorola Edge 40 184": {
+    "DPI": 467,
+    "General": 182,
+    "Red Dot": 177,
+    "2x Scope": 198,
+    "4x Scope": 198,
+    "AWM Scope": 180,
+    "Free Look": 144
+  },
+  "Vivo V27 Pro 185": {
+    "DPI": 456,
+    "General": 158,
+    "Red Dot": 167,
+    "2x Scope": 192,
+    "4x Scope": 185,
+    "AWM Scope": 163,
+    "Free Look": 147
+  },
+  "Motorola Edge 30 Ultra 186": {
+    "DPI": 481,
+    "General": 161,
+    "Red Dot": 185,
+    "2x Scope": 191,
+    "4x Scope": 200,
+    "AWM Scope": 151,
+    "Free Look": 144
+  },
+  "Motorola Edge 30 187": {
+    "DPI": 448,
+    "General": 171,
+    "Red Dot": 173,
+    "2x Scope": 151,
+    "4x Scope": 162,
+    "AWM Scope": 181,
+    "Free Look": 182
+  },
+  "Infinix Note 30 188": {
+    "DPI": 423,
+    "General": 156,
+    "Red Dot": 200,
+    "2x Scope": 179,
+    "4x Scope": 186,
+    "AWM Scope": 192,
+    "Free Look": 138
+  },
+  "iQOO Neo 6 189": {
+    "DPI": 411,
+    "General": 177,
+    "Red Dot": 172,
+    "2x Scope": 174,
+    "4x Scope": 160,
+    "AWM Scope": 193,
+    "Free Look": 199
+  },
+  "Vivo V25 Pro 190": {
+    "DPI": 445,
+    "General": 151,
+    "Red Dot": 163,
+    "2x Scope": 195,
+    "4x Scope": 164,
+    "AWM Scope": 199,
+    "Free Look": 167
+  },
+  "Infinix Note 12 Pro 191": {
+    "DPI": 420,
+    "General": 154,
+    "Red Dot": 158,
+    "2x Scope": 197,
+    "4x Scope": 181,
+    "AWM Scope": 189,
+    "Free Look": 174
+  },
+  "Xiaomi Poco X5 Pro 192": {
+    "DPI": 435,
+    "General": 184,
+    "Red Dot": 174,
+    "2x Scope": 191,
+    "4x Scope": 174,
+    "AWM Scope": 194,
+    "Free Look": 164
+  },
+  "Oppo Find X3 Pro 193": {
+    "DPI": 486,
+    "General": 195,
+    "Red Dot": 163,
+    "2x Scope": 172,
+    "4x Scope": 198,
+    "AWM Scope": 150,
+    "Free Look": 135
+  },
+  "Samsung Galaxy A73 194": {
+    "DPI": 468,
+    "General": 197,
+    "Red Dot": 160,
+    "2x Scope": 175,
+    "4x Scope": 160,
+    "AWM Scope": 192,
+    "Free Look": 170
+  },
+  "Realme GT Master Edition 195": {
+    "DPI": 487,
+    "General": 164,
+    "Red Dot": 183,
+    "2x Scope": 166,
+    "4x Scope": 161,
+    "AWM Scope": 194,
+    "Free Look": 194
+  },
+  "Oppo Reno 9 Pro 196": {
+    "DPI": 410,
+    "General": 159,
+    "Red Dot": 158,
+    "2x Scope": 179,
+    "4x Scope": 179,
+    "AWM Scope": 180,
+    "Free Look": 169
+  },
+  "Motorola Edge 30 197": {
+    "DPI": 405,
+    "General": 193,
+    "Red Dot": 183,
+    "2x Scope": 184,
+    "4x Scope": 179,
+    "AWM Scope": 158,
+    "Free Look": 168
+  },
+  "Oppo Reno 8 Pro 198": {
+    "DPI": 444,
+    "General": 158,
+    "Red Dot": 178,
+    "2x Scope": 156,
+    "4x Scope": 193,
+    "AWM Scope": 140,
+    "Free Look": 184
+  },
+  "Samsung Galaxy Z Fold 5 199": {
+    "DPI": 483,
+    "General": 181,
+    "Red Dot": 187,
+    "2x Scope": 200,
+    "4x Scope": 167,
+    "AWM Scope": 165,
+    "Free Look": 131
+  },
+  "Samsung Galaxy S22 200": {
+    "DPI": 472,
+    "General": 196,
+    "Red Dot": 200,
+    "2x Scope": 179,
+    "4x Scope": 179,
+    "AWM Scope": 200,
+    "Free Look": 137
+  },
+  "Xiaomi Black Shark 6 201": {
+    "DPI": 491,
+    "General": 171,
+    "Red Dot": 192,
+    "2x Scope": 187,
+    "4x Scope": 196,
+    "AWM Scope": 173,
+    "Free Look": 193
+  },
+  "Motorola Edge 40 202": {
+    "DPI": 461,
+    "General": 182,
+    "Red Dot": 160,
+    "2x Scope": 162,
+    "4x Scope": 160,
+    "AWM Scope": 170,
+    "Free Look": 151
+  },
+  "Motorola Edge 40 203": {
+    "DPI": 434,
+    "General": 191,
+    "Red Dot": 188,
+    "2x Scope": 191,
+    "4x Scope": 168,
+    "AWM Scope": 182,
+    "Free Look": 186
+  },
+  "Samsung Galaxy A53 204": {
+    "DPI": 465,
+    "General": 172,
+    "Red Dot": 150,
+    "2x Scope": 181,
+    "4x Scope": 176,
+    "AWM Scope": 177,
+    "Free Look": 150
+  },
+  "Realme GT 2 Pro 205": {
+    "DPI": 470,
+    "General": 159,
+    "Red Dot": 162,
+    "2x Scope": 193,
+    "4x Scope": 195,
+    "AWM Scope": 135,
+    "Free Look": 172
+  },
+  "Realme Realme 11 Pro 206": {
+    "DPI": 486,
+    "General": 156,
+    "Red Dot": 196,
+    "2x Scope": 172,
+    "4x Scope": 197,
+    "AWM Scope": 164,
+    "Free Look": 193
+  },
+  "Infinix Zero 30 207": {
+    "DPI": 416,
+    "General": 180,
+    "Red Dot": 199,
+    "2x Scope": 153,
+    "4x Scope": 152,
+    "AWM Scope": 154,
+    "Free Look": 180
+  },
+  "Realme Realme 11 Pro 208": {
+    "DPI": 435,
+    "General": 176,
+    "Red Dot": 182,
+    "2x Scope": 150,
+    "4x Scope": 150,
+    "AWM Scope": 161,
+    "Free Look": 191
+  },
+  "Motorola Moto G200 209": {
+    "DPI": 445,
+    "General": 176,
+    "Red Dot": 193,
+    "2x Scope": 185,
+    "4x Scope": 161,
+    "AWM Scope": 139,
+    "Free Look": 156
+  },
+  "Poco F4 GT 210": {
+    "DPI": 494,
+    "General": 174,
+    "Red Dot": 162,
+    "2x Scope": 159,
+    "4x Scope": 156,
+    "AWM Scope": 181,
+    "Free Look": 180
+  },
+  "Samsung Galaxy S23 211": {
+    "DPI": 427,
+    "General": 164,
+    "Red Dot": 195,
+    "2x Scope": 199,
+    "4x Scope": 190,
+    "AWM Scope": 154,
+    "Free Look": 130
+  },
+  "iQOO Neo 6 212": {
+    "DPI": 411,
+    "General": 151,
+    "Red Dot": 152,
+    "2x Scope": 187,
+    "4x Scope": 200,
+    "AWM Scope": 197,
+    "Free Look": 158
+  },
+  "Infinix Note 12 Pro 213": {
+    "DPI": 416,
+    "General": 176,
+    "Red Dot": 152,
+    "2x Scope": 189,
+    "4x Scope": 189,
+    "AWM Scope": 155,
+    "Free Look": 140
+  },
+  "Vivo V23 214": {
+    "DPI": 438,
+    "General": 150,
+    "Red Dot": 160,
+    "2x Scope": 159,
+    "4x Scope": 195,
+    "AWM Scope": 148,
+    "Free Look": 188
+  },
+  "Vivo iQOO 11 215": {
+    "DPI": 450,
+    "General": 170,
+    "Red Dot": 174,
+    "2x Scope": 185,
+    "4x Scope": 160,
+    "AWM Scope": 172,
+    "Free Look": 172
+  },
+  "Vivo iQOO 11 216": {
+    "DPI": 411,
+    "General": 165,
+    "Red Dot": 186,
+    "2x Scope": 171,
+    "4x Scope": 192,
+    "AWM Scope": 167,
+    "Free Look": 193
+  },
+  "Motorola Edge 30 Ultra 217": {
+    "DPI": 433,
+    "General": 199,
+    "Red Dot": 165,
+    "2x Scope": 195,
+    "4x Scope": 181,
+    "AWM Scope": 184,
+    "Free Look": 159
+  },
+  "iQOO Neo 7 218": {
+    "DPI": 456,
+    "General": 176,
+    "Red Dot": 191,
+    "2x Scope": 200,
+    "4x Scope": 187,
+    "AWM Scope": 192,
+    "Free Look": 147
+  },
+  "Oppo Reno 9 Pro 219": {
+    "DPI": 472,
+    "General": 188,
+    "Red Dot": 161,
+    "2x Scope": 199,
+    "4x Scope": 194,
+    "AWM Scope": 155,
+    "Free Look": 192
+  },
+  "Motorola Edge 40 220": {
+    "DPI": 476,
+    "General": 170,
+    "Red Dot": 184,
+    "2x Scope": 166,
+    "4x Scope": 170,
+    "AWM Scope": 175,
+    "Free Look": 176
+  },
+  "Poco F4 GT 221": {
+    "DPI": 452,
+    "General": 183,
+    "Red Dot": 171,
+    "2x Scope": 169,
+    "4x Scope": 182,
+    "AWM Scope": 182,
+    "Free Look": 133
+  },
+  "Motorola Edge 30 222": {
+    "DPI": 439,
+    "General": 152,
+    "Red Dot": 168,
+    "2x Scope": 151,
+    "4x Scope": 198,
+    "AWM Scope": 190,
+    "Free Look": 198
+  },
+  "Poco F3 GT 223": {
+    "DPI": 411,
+    "General": 185,
+    "Red Dot": 169,
+    "2x Scope": 161,
+    "4x Scope": 190,
+    "AWM Scope": 173,
+    "Free Look": 132
+  },
+  "iQOO Neo 7 224": {
+    "DPI": 400,
+    "General": 184,
+    "Red Dot": 188,
+    "2x Scope": 186,
+    "4x Scope": 184,
+    "AWM Scope": 174,
+    "Free Look": 135
+  },
+  "Vivo V25 Pro 225": {
+    "DPI": 471,
+    "General": 157,
+    "Red Dot": 151,
+    "2x Scope": 155,
+    "4x Scope": 151,
+    "AWM Scope": 136,
+    "Free Look": 136
+  },
+  "Oppo Reno 7 226": {
+    "DPI": 472,
+    "General": 189,
+    "Red Dot": 157,
+    "2x Scope": 165,
+    "4x Scope": 151,
+    "AWM Scope": 189,
+    "Free Look": 195
+  },
+  "Poco X3 Pro 227": {
+    "DPI": 464,
+    "General": 175,
+    "Red Dot": 167,
+    "2x Scope": 183,
+    "4x Scope": 161,
+    "AWM Scope": 179,
+    "Free Look": 162
+  },
+  "Vivo V27 Pro 228": {
+    "DPI": 432,
+    "General": 164,
+    "Red Dot": 196,
+    "2x Scope": 155,
+    "4x Scope": 168,
+    "AWM Scope": 187,
+    "Free Look": 154
+  },
+  "Samsung Galaxy A53 229": {
+    "DPI": 466,
+    "General": 182,
+    "Red Dot": 165,
+    "2x Scope": 173,
+    "4x Scope": 162,
+    "AWM Scope": 191,
+    "Free Look": 187
+  },
+  "Infinix Note 30 230": {
+    "DPI": 435,
+    "General": 190,
+    "Red Dot": 196,
+    "2x Scope": 170,
+    "4x Scope": 172,
+    "AWM Scope": 184,
+    "Free Look": 139
+  },
+  "Motorola Moto G200 231": {
+    "DPI": 480,
+    "General": 155,
+    "Red Dot": 189,
+    "2x Scope": 184,
+    "4x Scope": 153,
+    "AWM Scope": 175,
+    "Free Look": 179
+  },
+  "Motorola Edge 30 232": {
+    "DPI": 427,
+    "General": 166,
+    "Red Dot": 186,
+    "2x Scope": 164,
+    "4x Scope": 192,
+    "AWM Scope": 146,
+    "Free Look": 156
+  },
+  "Oppo Reno 8 Pro 233": {
+    "DPI": 411,
+    "General": 160,
+    "Red Dot": 178,
+    "2x Scope": 180,
+    "4x Scope": 166,
+    "AWM Scope": 188,
+    "Free Look": 189
+  },
+  "Motorola Moto G200 234": {
+    "DPI": 405,
+    "General": 155,
+    "Red Dot": 190,
+    "2x Scope": 176,
+    "4x Scope": 177,
+    "AWM Scope": 198,
+    "Free Look": 194
+  },
+  "Oppo Reno 7 235": {
+    "DPI": 493,
+    "General": 195,
+    "Red Dot": 194,
+    "2x Scope": 152,
+    "4x Scope": 180,
+    "AWM Scope": 182,
+    "Free Look": 196
+  },
+  "Xiaomi Poco X5 Pro 236": {
+    "DPI": 475,
+    "General": 192,
+    "Red Dot": 156,
+    "2x Scope": 197,
+    "4x Scope": 180,
+    "AWM Scope": 132,
+    "Free Look": 195
+  },
+  "Oppo Find X5 237": {
+    "DPI": 405,
+    "General": 187,
+    "Red Dot": 197,
+    "2x Scope": 188,
+    "4x Scope": 160,
+    "AWM Scope": 165,
+    "Free Look": 131
+  },
+  "Xiaomi Redmi Note 12 Pro 238": {
+    "DPI": 447,
+    "General": 157,
+    "Red Dot": 171,
+    "2x Scope": 155,
+    "4x Scope": 153,
+    "AWM Scope": 140,
+    "Free Look": 133
+  },
+  "Poco F4 GT 239": {
+    "DPI": 426,
+    "General": 181,
+    "Red Dot": 167,
+    "2x Scope": 158,
+    "4x Scope": 157,
+    "AWM Scope": 181,
+    "Free Look": 154
+  },
+  "iQOO Neo 5 240": {
+    "DPI": 446,
+    "General": 161,
+    "Red Dot": 158,
+    "2x Scope": 163,
+    "4x Scope": 160,
+    "AWM Scope": 199,
+    "Free Look": 191
+  },
+  "Xiaomi Poco X5 Pro 241": {
+    "DPI": 468,
+    "General": 153,
+    "Red Dot": 156,
+    "2x Scope": 179,
+    "4x Scope": 159,
+    "AWM Scope": 132,
+    "Free Look": 151
+  },
+  "iQOO Neo 6 242": {
+    "DPI": 478,
+    "General": 163,
+    "Red Dot": 200,
+    "2x Scope": 175,
+    "4x Scope": 165,
+    "AWM Scope": 193,
+    "Free Look": 193
+  },
+  "iQOO Neo 5 243": {
+    "DPI": 437,
+    "General": 169,
+    "Red Dot": 188,
+    "2x Scope": 161,
+    "4x Scope": 190,
+    "AWM Scope": 158,
+    "Free Look": 197
+  },
+  "Motorola Edge 40 244": {
+    "DPI": 486,
+    "General": 152,
+    "Red Dot": 190,
+    "2x Scope": 165,
+    "4x Scope": 183,
+    "AWM Scope": 132,
+    "Free Look": 131
+  },
+  "Oppo Find X3 Pro 245": {
+    "DPI": 472,
+    "General": 173,
+    "Red Dot": 152,
+    "2x Scope": 185,
+    "4x Scope": 175,
+    "AWM Scope": 169,
+    "Free Look": 130
+  },
+  "Xiaomi Mi 13 246": {
+    "DPI": 456,
+    "General": 160,
+    "Red Dot": 184,
+    "2x Scope": 163,
+    "4x Scope": 169,
+    "AWM Scope": 172,
+    "Free Look": 151
+  },
+  "Infinix Note 12 Pro 247": {
+    "DPI": 438,
+    "General": 168,
+    "Red Dot": 185,
+    "2x Scope": 185,
+    "4x Scope": 156,
+    "AWM Scope": 159,
+    "Free Look": 131
+  },
+  "Poco X5 Pro 248": {
+    "DPI": 471,
+    "General": 163,
+    "Red Dot": 157,
+    "2x Scope": 150,
+    "4x Scope": 188,
+    "AWM Scope": 146,
+    "Free Look": 135
+  },
+  "Poco X4 Pro 249": {
+    "DPI": 449,
+    "General": 155,
+    "Red Dot": 195,
+    "2x Scope": 175,
+    "4x Scope": 198,
+    "AWM Scope": 163,
+    "Free Look": 180
+  },
+  "Samsung Galaxy S23 250": {
+    "DPI": 422,
+    "General": 154,
+    "Red Dot": 162,
+    "2x Scope": 165,
+    "4x Scope": 193,
+    "AWM Scope": 131,
+    "Free Look": 134
+  },
+  "Xiaomi Mi 13 251": {
+    "DPI": 491,
+    "General": 196,
+    "Red Dot": 170,
+    "2x Scope": 178,
+    "4x Scope": 181,
+    "AWM Scope": 173,
+    "Free Look": 132
+  },
+  "Poco X3 Pro 252": {
+    "DPI": 475,
+    "General": 155,
+    "Red Dot": 160,
+    "2x Scope": 200,
+    "4x Scope": 165,
+    "AWM Scope": 173,
+    "Free Look": 188
+  },
+  "Realme Realme 11 Pro 253": {
+    "DPI": 495,
+    "General": 154,
+    "Red Dot": 180,
+    "2x Scope": 194,
+    "4x Scope": 158,
+    "AWM Scope": 175,
+    "Free Look": 142
+  },
+  "Realme Realme X7 Max 254": {
+    "DPI": 495,
+    "General": 167,
+    "Red Dot": 157,
+    "2x Scope": 152,
+    "4x Scope": 186,
+    "AWM Scope": 170,
+    "Free Look": 154
+  },
+  "Motorola Edge 30 Ultra 255": {
+    "DPI": 418,
+    "General": 195,
+    "Red Dot": 191,
+    "2x Scope": 159,
+    "4x Scope": 179,
+    "AWM Scope": 196,
+    "Free Look": 158
+  },
+  "Poco F3 GT 256": {
+    "DPI": 484,
+    "General": 199,
+    "Red Dot": 169,
+    "2x Scope": 199,
+    "4x Scope": 165,
+    "AWM Scope": 182,
+    "Free Look": 193
+  },
+  "Samsung Galaxy S22 257": {
+    "DPI": 431,
+    "General": 150,
+    "Red Dot": 189,
+    "2x Scope": 169,
+    "4x Scope": 177,
+    "AWM Scope": 186,
+    "Free Look": 193
+  },
+  "Infinix Zero 30 258": {
+    "DPI": 496,
+    "General": 174,
+    "Red Dot": 156,
+    "2x Scope": 192,
+    "4x Scope": 164,
+    "AWM Scope": 134,
+    "Free Look": 135
+  },
+  "Poco F3 GT 259": {
+    "DPI": 436,
+    "General": 168,
+    "Red Dot": 160,
+    "2x Scope": 193,
+    "4x Scope": 194,
+    "AWM Scope": 143,
+    "Free Look": 190
+  },
+  "iQOO Neo 5 260": {
+    "DPI": 466,
+    "General": 192,
+    "Red Dot": 186,
+    "2x Scope": 161,
+    "4x Scope": 171,
+    "AWM Scope": 196,
+    "Free Look": 130
+  },
+  "Realme Realme 11 Pro 261": {
+    "DPI": 403,
+    "General": 158,
+    "Red Dot": 187,
+    "2x Scope": 170,
+    "4x Scope": 193,
+    "AWM Scope": 184,
+    "Free Look": 180
+  },
+  "Xiaomi Poco X5 Pro 262": {
+    "DPI": 438,
+    "General": 200,
+    "Red Dot": 167,
+    "2x Scope": 153,
+    "4x Scope": 190,
+    "AWM Scope": 135,
+    "Free Look": 168
+  },
+  "Infinix Zero 30 263": {
+    "DPI": 496,
+    "General": 171,
+    "Red Dot": 164,
+    "2x Scope": 197,
+    "4x Scope": 178,
+    "AWM Scope": 154,
+    "Free Look": 156
+  },
+  "Infinix Zero Ultra 264": {
+    "DPI": 432,
+    "General": 185,
+    "Red Dot": 159,
+    "2x Scope": 178,
+    "4x Scope": 196,
+    "AWM Scope": 131,
+    "Free Look": 144
+  },
+  "Oppo Reno 9 Pro 265": {
+    "DPI": 424,
+    "General": 183,
+    "Red Dot": 199,
+    "2x Scope": 180,
+    "4x Scope": 191,
+    "AWM Scope": 143,
+    "Free Look": 136
+  },
+  "Oppo Find X3 Pro 266": {
+    "DPI": 455,
+    "General": 195,
+    "Red Dot": 174,
+    "2x Scope": 152,
+    "4x Scope": 156,
+    "AWM Scope": 162,
+    "Free Look": 149
+  },
+  "Infinix Zero Ultra 267": {
+    "DPI": 457,
+    "General": 155,
+    "Red Dot": 173,
+    "2x Scope": 170,
+    "4x Scope": 192,
+    "AWM Scope": 194,
+    "Free Look": 142
+  },
+  "Vivo V23 268": {
+    "DPI": 417,
+    "General": 156,
+    "Red Dot": 158,
+    "2x Scope": 179,
+    "4x Scope": 166,
+    "AWM Scope": 168,
+    "Free Look": 196
+  },
+  "iQOO Neo 7 269": {
+    "DPI": 433,
+    "General": 179,
+    "Red Dot": 190,
+    "2x Scope": 155,
+    "4x Scope": 153,
+    "AWM Scope": 144,
+    "Free Look": 149
+  },
+  "Motorola Edge 20 Pro 270": {
+    "DPI": 437,
+    "General": 181,
+    "Red Dot": 164,
+    "2x Scope": 159,
+    "4x Scope": 188,
+    "AWM Scope": 131,
+    "Free Look": 169
+  },
+  "Realme Realme 11 Pro 271": {
+    "DPI": 413,
+    "General": 197,
+    "Red Dot": 168,
+    "2x Scope": 150,
+    "4x Scope": 182,
+    "AWM Scope": 132,
+    "Free Look": 185
+  },
+  "Poco X5 Pro 272": {
+    "DPI": 437,
+    "General": 179,
+    "Red Dot": 155,
+    "2x Scope": 165,
+    "4x Scope": 163,
+    "AWM Scope": 157,
+    "Free Look": 166
+  },
+  "Infinix Note 30 273": {
+    "DPI": 482,
+    "General": 177,
+    "Red Dot": 168,
+    "2x Scope": 200,
+    "4x Scope": 162,
+    "AWM Scope": 145,
+    "Free Look": 142
+  },
+  "iQOO Neo 5 274": {
+    "DPI": 417,
+    "General": 200,
+    "Red Dot": 170,
+    "2x Scope": 171,
+    "4x Scope": 161,
+    "AWM Scope": 145,
+    "Free Look": 197
+  },
+  "Oppo Reno 9 Pro 275": {
+    "DPI": 414,
+    "General": 193,
+    "Red Dot": 197,
+    "2x Scope": 170,
+    "4x Scope": 197,
+    "AWM Scope": 157,
+    "Free Look": 178
+  },
+  "Infinix Zero 30 276": {
+    "DPI": 448,
+    "General": 162,
+    "Red Dot": 196,
+    "2x Scope": 165,
+    "4x Scope": 182,
+    "AWM Scope": 163,
+    "Free Look": 186
+  },
+  "Motorola Edge 30 277": {
+    "DPI": 443,
+    "General": 177,
+    "Red Dot": 183,
+    "2x Scope": 193,
+    "4x Scope": 169,
+    "AWM Scope": 135,
+    "Free Look": 197
+  },
+  "iQOO Neo 6 278": {
+    "DPI": 428,
+    "General": 172,
+    "Red Dot": 190,
+    "2x Scope": 199,
+    "4x Scope": 163,
+    "AWM Scope": 141,
+    "Free Look": 176
+  },
+  "Realme Realme X7 Max 279": {
+    "DPI": 418,
+    "General": 180,
+    "Red Dot": 161,
+    "2x Scope": 169,
+    "4x Scope": 162,
+    "AWM Scope": 155,
+    "Free Look": 183
+  },
+  "Vivo iQOO 10 280": {
+    "DPI": 454,
+    "General": 160,
+    "Red Dot": 156,
+    "2x Scope": 173,
+    "4x Scope": 151,
+    "AWM Scope": 140,
+    "Free Look": 152
+  },
+  "Vivo V27 Pro 281": {
+    "DPI": 474,
+    "General": 159,
+    "Red Dot": 154,
+    "2x Scope": 171,
+    "4x Scope": 198,
+    "AWM Scope": 194,
+    "Free Look": 153
+  },
+  "Samsung Galaxy S23 282": {
+    "DPI": 435,
+    "General": 157,
+    "Red Dot": 190,
+    "2x Scope": 162,
+    "4x Scope": 169,
+    "AWM Scope": 130,
+    "Free Look": 131
+  },
+  "Motorola Edge 40 283": {
+    "DPI": 494,
+    "General": 180,
+    "Red Dot": 185,
+    "2x Scope": 193,
+    "4x Scope": 187,
+    "AWM Scope": 158,
+    "Free Look": 161
+  },
+  "Poco X3 Pro 284": {
+    "DPI": 467,
+    "General": 183,
+    "Red Dot": 172,
+    "2x Scope": 175,
+    "4x Scope": 190,
+    "AWM Scope": 130,
+    "Free Look": 185
+  },
+  "iQOO Z6 Pro 285": {
+    "DPI": 496,
+    "General": 191,
+    "Red Dot": 173,
+    "2x Scope": 179,
+    "4x Scope": 158,
+    "AWM Scope": 158,
+    "Free Look": 156
+  },
+  "Samsung Galaxy S23 286": {
+    "DPI": 420,
+    "General": 156,
+    "Red Dot": 164,
+    "2x Scope": 167,
+    "4x Scope": 167,
+    "AWM Scope": 199,
+    "Free Look": 147
+  },
+  "Infinix Note 12 Pro 287": {
+    "DPI": 420,
+    "General": 190,
+    "Red Dot": 188,
+    "2x Scope": 159,
+    "4x Scope": 169,
+    "AWM Scope": 157,
+    "Free Look": 183
+  },
+  "Poco F4 GT 288": {
+    "DPI": 477,
+    "General": 179,
+    "Red Dot": 195,
+    "2x Scope": 150,
+    "4x Scope": 151,
+    "AWM Scope": 136,
+    "Free Look": 174
+  },
+  "Vivo iQOO 10 289": {
+    "DPI": 472,
+    "General": 179,
+    "Red Dot": 157,
+    "2x Scope": 194,
+    "4x Scope": 157,
+    "AWM Scope": 164,
+    "Free Look": 165
+  },
+  "iQOO Neo 6 290": {
+    "DPI": 483,
+    "General": 169,
+    "Red Dot": 158,
+    "2x Scope": 168,
+    "4x Scope": 163,
+    "AWM Scope": 167,
+    "Free Look": 166
+  },
+  "Samsung Galaxy A53 291": {
+    "DPI": 403,
+    "General": 183,
+    "Red Dot": 178,
+    "2x Scope": 196,
+    "4x Scope": 189,
+    "AWM Scope": 159,
+    "Free Look": 141
+  },
+  "Realme GT 2 Pro 292": {
+    "DPI": 426,
+    "General": 182,
+    "Red Dot": 189,
+    "2x Scope": 197,
+    "4x Scope": 174,
+    "AWM Scope": 185,
+    "Free Look": 151
+  },
+  "Motorola Moto G200 293": {
+    "DPI": 498,
+    "General": 187,
+    "Red Dot": 171,
+    "2x Scope": 199,
+    "4x Scope": 172,
+    "AWM Scope": 199,
+    "Free Look": 173
+  },
+  "Xiaomi Black Shark 6 294": {
+    "DPI": 488,
+    "General": 191,
+    "Red Dot": 151,
+    "2x Scope": 193,
+    "4x Scope": 164,
+    "AWM Scope": 172,
+    "Free Look": 165
+  },
+  "Samsung Galaxy Z Fold 5 295": {
+    "DPI": 449,
+    "General": 152,
+    "Red Dot": 161,
+    "2x Scope": 170,
+    "4x Scope": 177,
+    "AWM Scope": 163,
+    "Free Look": 134
+  },
+  "iQOO Neo 5 296": {
+    "DPI": 452,
+    "General": 157,
+    "Red Dot": 164,
+    "2x Scope": 195,
+    "4x Scope": 170,
+    "AWM Scope": 181,
+    "Free Look": 131
+  },
+  "iQOO Neo 5 297": {
+    "DPI": 477,
+    "General": 155,
+    "Red Dot": 187,
+    "2x Scope": 179,
+    "4x Scope": 174,
+    "AWM Scope": 138,
+    "Free Look": 158
+  },
+  "Vivo V25 Pro 298": {
+    "DPI": 405,
+    "General": 159,
+    "Red Dot": 189,
+    "2x Scope": 154,
+    "4x Scope": 158,
+    "AWM Scope": 193,
+    "Free Look": 183
+  },
+  "Vivo iQOO 11 299": {
+    "DPI": 424,
+    "General": 174,
+    "Red Dot": 168,
+    "2x Scope": 196,
+    "4x Scope": 179,
+    "AWM Scope": 150,
+    "Free Look": 150
+  },
+  "Infinix Note 30 300": {
+    "DPI": 478,
+    "General": 196,
+    "Red Dot": 186,
+    "2x Scope": 186,
+    "4x Scope": 183,
+    "AWM Scope": 174,
+    "Free Look": 155
+  },
+  "Oppo Reno 9 Pro 301": {
+    "DPI": 481,
+    "General": 158,
+    "Red Dot": 172,
+    "2x Scope": 182,
+    "4x Scope": 153,
+    "AWM Scope": 166,
+    "Free Look": 164
+  },
+  "Samsung Galaxy A53 302": {
+    "DPI": 406,
+    "General": 198,
+    "Red Dot": 172,
+    "2x Scope": 150,
+    "4x Scope": 192,
+    "AWM Scope": 159,
+    "Free Look": 166
+  },
+  "Xiaomi Redmi Note 11 Pro 303": {
+    "DPI": 414,
+    "General": 172,
+    "Red Dot": 180,
+    "2x Scope": 181,
+    "4x Scope": 172,
+    "AWM Scope": 168,
+    "Free Look": 152
+  },
+  "Realme GT Master Edition 304": {
+    "DPI": 459,
+    "General": 167,
+    "Red Dot": 164,
+    "2x Scope": 176,
+    "4x Scope": 176,
+    "AWM Scope": 188,
+    "Free Look": 180
+  },
+  "Motorola Edge 40 305": {
+    "DPI": 496,
+    "General": 193,
+    "Red Dot": 200,
+    "2x Scope": 185,
+    "4x Scope": 198,
+    "AWM Scope": 169,
+    "Free Look": 198
+  },
+  "Oppo Find X3 Pro 306": {
+    "DPI": 497,
+    "General": 177,
+    "Red Dot": 156,
+    "2x Scope": 193,
+    "4x Scope": 179,
+    "AWM Scope": 153,
+    "Free Look": 143
+  },
+  "iQOO Neo 5 307": {
+    "DPI": 492,
+    "General": 169,
+    "Red Dot": 159,
+    "2x Scope": 161,
+    "4x Scope": 169,
+    "AWM Scope": 178,
+    "Free Look": 167
+  },
+  "Vivo V23 308": {
+    "DPI": 414,
+    "General": 164,
+    "Red Dot": 153,
+    "2x Scope": 199,
+    "4x Scope": 195,
+    "AWM Scope": 150,
+    "Free Look": 183
+  },
+  "Xiaomi Black Shark 6 309": {
+    "DPI": 414,
+    "General": 174,
+    "Red Dot": 157,
+    "2x Scope": 150,
+    "4x Scope": 163,
+    "AWM Scope": 187,
+    "Free Look": 155
+  },
+  "Oppo Reno 8 Pro 310": {
+    "DPI": 454,
+    "General": 162,
+    "Red Dot": 199,
+    "2x Scope": 159,
+    "4x Scope": 150,
+    "AWM Scope": 132,
+    "Free Look": 158
+  },
+  "Realme Realme 11 Pro 311": {
+    "DPI": 459,
+    "General": 200,
+    "Red Dot": 175,
+    "2x Scope": 181,
+    "4x Scope": 169,
+    "AWM Scope": 138,
+    "Free Look": 134
+  },
+  "iQOO Neo 7 312": {
+    "DPI": 434,
+    "General": 197,
+    "Red Dot": 166,
+    "2x Scope": 169,
+    "4x Scope": 185,
+    "AWM Scope": 134,
+    "Free Look": 173
+  },
+  "Xiaomi Redmi Note 11 Pro 313": {
+    "DPI": 459,
+    "General": 176,
+    "Red Dot": 169,
+    "2x Scope": 187,
+    "4x Scope": 182,
+    "AWM Scope": 188,
+    "Free Look": 191
+  },
+  "Samsung Galaxy S23 314": {
+    "DPI": 434,
+    "General": 166,
+    "Red Dot": 186,
+    "2x Scope": 193,
+    "4x Scope": 191,
+    "AWM Scope": 178,
+    "Free Look": 132
+  },
+  "Vivo iQOO 11 315": {
+    "DPI": 458,
+    "General": 150,
+    "Red Dot": 156,
+    "2x Scope": 157,
+    "4x Scope": 170,
+    "AWM Scope": 154,
+    "Free Look": 139
+  },
+  "Motorola Edge 30 316": {
+    "DPI": 405,
+    "General": 172,
+    "Red Dot": 189,
+    "2x Scope": 192,
+    "4x Scope": 153,
+    "AWM Scope": 169,
+    "Free Look": 167
+  },
+  "iQOO Z6 Pro 317": {
+    "DPI": 451,
+    "General": 185,
+    "Red Dot": 200,
+    "2x Scope": 159,
+    "4x Scope": 189,
+    "AWM Scope": 170,
+    "Free Look": 199
+  },
+  "Infinix Zero Ultra 318": {
+    "DPI": 412,
+    "General": 162,
+    "Red Dot": 157,
+    "2x Scope": 178,
+    "4x Scope": 173,
+    "AWM Scope": 178,
+    "Free Look": 191
+  },
+  "Infinix Zero Ultra 319": {
+    "DPI": 492,
+    "General": 170,
+    "Red Dot": 165,
+    "2x Scope": 197,
+    "4x Scope": 194,
+    "AWM Scope": 189,
+    "Free Look": 143
+  },
+  "Oppo Find X3 Pro 320": {
+    "DPI": 497,
+    "General": 159,
+    "Red Dot": 163,
+    "2x Scope": 159,
+    "4x Scope": 154,
+    "AWM Scope": 168,
+    "Free Look": 135
+  },
+  "Oppo Reno 9 Pro 321": {
+    "DPI": 407,
+    "General": 173,
+    "Red Dot": 176,
+    "2x Scope": 198,
+    "4x Scope": 160,
+    "AWM Scope": 178,
+    "Free Look": 130
+  },
+  "Poco X5 Pro 322": {
+    "DPI": 476,
+    "General": 167,
+    "Red Dot": 160,
+    "2x Scope": 194,
+    "4x Scope": 183,
+    "AWM Scope": 156,
+    "Free Look": 137
+  },
+  "Xiaomi Redmi Note 11 Pro 323": {
+    "DPI": 451,
+    "General": 172,
+    "Red Dot": 175,
+    "2x Scope": 168,
+    "4x Scope": 189,
+    "AWM Scope": 156,
+    "Free Look": 187
+  },
+  "Realme Realme 11 Pro 324": {
+    "DPI": 400,
+    "General": 171,
+    "Red Dot": 178,
+    "2x Scope": 151,
+    "4x Scope": 188,
+    "AWM Scope": 198,
+    "Free Look": 190
+  },
+  "Oppo Reno 9 Pro 325": {
+    "DPI": 410,
+    "General": 182,
+    "Red Dot": 178,
+    "2x Scope": 187,
+    "4x Scope": 179,
+    "AWM Scope": 136,
+    "Free Look": 171
+  },
+  "Realme GT 2 Pro 326": {
+    "DPI": 449,
+    "General": 156,
+    "Red Dot": 164,
+    "2x Scope": 190,
+    "4x Scope": 167,
+    "AWM Scope": 189,
+    "Free Look": 191
+  },
+  "Motorola Moto G200 327": {
+    "DPI": 417,
+    "General": 186,
+    "Red Dot": 153,
+    "2x Scope": 171,
+    "4x Scope": 176,
+    "AWM Scope": 187,
+    "Free Look": 200
+  },
+  "Infinix Zero 20 328": {
+    "DPI": 484,
+    "General": 164,
+    "Red Dot": 175,
+    "2x Scope": 152,
+    "4x Scope": 186,
+    "AWM Scope": 160,
+    "Free Look": 140
+  },
+  "Realme GT Master Edition 329": {
+    "DPI": 458,
+    "General": 174,
+    "Red Dot": 195,
+    "2x Scope": 200,
+    "4x Scope": 186,
+    "AWM Scope": 144,
+    "Free Look": 158
+  },
+  "Infinix Note 12 Pro 330": {
+    "DPI": 470,
+    "General": 180,
+    "Red Dot": 188,
+    "2x Scope": 168,
+    "4x Scope": 185,
+    "AWM Scope": 143,
+    "Free Look": 173
+  },
+  "Vivo V25 Pro 331": {
+    "DPI": 408,
+    "General": 186,
+    "Red Dot": 172,
+    "2x Scope": 177,
+    "4x Scope": 154,
+    "AWM Scope": 181,
+    "Free Look": 185
+  },
+  "Xiaomi Redmi Note 11 Pro 332": {
+    "DPI": 440,
+    "General": 159,
+    "Red Dot": 155,
+    "2x Scope": 157,
+    "4x Scope": 178,
+    "AWM Scope": 142,
+    "Free Look": 189
+  },
+  "Vivo iQOO 10 333": {
+    "DPI": 433,
+    "General": 200,
+    "Red Dot": 192,
+    "2x Scope": 187,
+    "4x Scope": 195,
+    "AWM Scope": 137,
+    "Free Look": 197
+  },
+  "Motorola Edge 40 334": {
+    "DPI": 416,
+    "General": 176,
+    "Red Dot": 199,
+    "2x Scope": 172,
+    "4x Scope": 186,
+    "AWM Scope": 181,
+    "Free Look": 152
+  },
+  "iQOO Neo 7 335": {
+    "DPI": 449,
+    "General": 159,
+    "Red Dot": 180,
+    "2x Scope": 187,
+    "4x Scope": 160,
+    "AWM Scope": 198,
+    "Free Look": 181
+  },
+  "Oppo Reno 8 Pro 336": {
+    "DPI": 473,
+    "General": 168,
+    "Red Dot": 199,
+    "2x Scope": 192,
+    "4x Scope": 178,
+    "AWM Scope": 198,
+    "Free Look": 194
+  },
+  "Xiaomi Redmi Note 12 Pro 337": {
+    "DPI": 411,
+    "General": 185,
+    "Red Dot": 175,
+    "2x Scope": 181,
+    "4x Scope": 175,
+    "AWM Scope": 183,
+    "Free Look": 142
+  },
+  "Realme Realme X7 Max 338": {
+    "DPI": 468,
+    "General": 160,
+    "Red Dot": 169,
+    "2x Scope": 174,
+    "4x Scope": 170,
+    "AWM Scope": 167,
+    "Free Look": 162
+  },
+  "Vivo V27 Pro 339": {
+    "DPI": 492,
+    "General": 158,
+    "Red Dot": 165,
+    "2x Scope": 154,
+    "4x Scope": 189,
+    "AWM Scope": 153,
+    "Free Look": 133
+  },
+  "Infinix Zero 20 340": {
+    "DPI": 410,
+    "General": 157,
+    "Red Dot": 177,
+    "2x Scope": 188,
+    "4x Scope": 178,
+    "AWM Scope": 149,
+    "Free Look": 140
+  },
+  "Vivo V25 Pro 341": {
+    "DPI": 426,
+    "General": 154,
+    "Red Dot": 164,
+    "2x Scope": 167,
+    "4x Scope": 152,
+    "AWM Scope": 165,
+    "Free Look": 193
+  },
+  "Vivo V25 Pro 342": {
+    "DPI": 453,
+    "General": 159,
+    "Red Dot": 172,
+    "2x Scope": 167,
+    "4x Scope": 172,
+    "AWM Scope": 174,
+    "Free Look": 146
+  },
+  "Infinix Zero 30 343": {
+    "DPI": 497,
+    "General": 197,
+    "Red Dot": 181,
+    "2x Scope": 183,
+    "4x Scope": 173,
+    "AWM Scope": 183,
+    "Free Look": 166
+  },
+  "Motorola Moto G200 344": {
+    "DPI": 471,
+    "General": 167,
+    "Red Dot": 182,
+    "2x Scope": 150,
+    "4x Scope": 159,
+    "AWM Scope": 158,
+    "Free Look": 178
+  },
+  "iQOO Z7 Pro 345": {
+    "DPI": 437,
+    "General": 186,
+    "Red Dot": 198,
+    "2x Scope": 164,
+    "4x Scope": 164,
+    "AWM Scope": 153,
+    "Free Look": 161
+  },
+  "Poco F3 GT 346": {
+    "DPI": 454,
+    "General": 150,
+    "Red Dot": 160,
+    "2x Scope": 152,
+    "4x Scope": 152,
+    "AWM Scope": 196,
+    "Free Look": 158
+  },
+  "Poco X4 Pro 347": {
+    "DPI": 490,
+    "General": 191,
+    "Red Dot": 159,
+    "2x Scope": 171,
+    "4x Scope": 187,
+    "AWM Scope": 174,
+    "Free Look": 150
+  },
+  "Motorola Edge 30 348": {
+    "DPI": 400,
+    "General": 173,
+    "Red Dot": 156,
+    "2x Scope": 180,
+    "4x Scope": 174,
+    "AWM Scope": 182,
+    "Free Look": 176
+  },
+  "iQOO Neo 6 349": {
+    "DPI": 465,
+    "General": 159,
+    "Red Dot": 150,
+    "2x Scope": 162,
+    "4x Scope": 184,
+    "AWM Scope": 150,
+    "Free Look": 149
+  },
+  "Poco X5 Pro 350": {
+    "DPI": 498,
+    "General": 190,
+    "Red Dot": 159,
+    "2x Scope": 194,
+    "4x Scope": 183,
+    "AWM Scope": 189,
+    "Free Look": 159
+  },
+  "Oppo Find X3 Pro 351": {
+    "DPI": 407,
+    "General": 160,
+    "Red Dot": 183,
+    "2x Scope": 169,
+    "4x Scope": 168,
+    "AWM Scope": 139,
+    "Free Look": 159
+  },
+  "Infinix Note 30 352": {
+    "DPI": 446,
+    "General": 191,
+    "Red Dot": 196,
+    "2x Scope": 178,
+    "4x Scope": 152,
+    "AWM Scope": 176,
+    "Free Look": 176
+  },
+  "Motorola Edge 30 353": {
+    "DPI": 400,
+    "General": 181,
+    "Red Dot": 186,
+    "2x Scope": 157,
+    "4x Scope": 172,
+    "AWM Scope": 193,
+    "Free Look": 136
+  },
+  "Samsung Galaxy Z Fold 5 354": {
+    "DPI": 494,
+    "General": 191,
+    "Red Dot": 157,
+    "2x Scope": 197,
+    "4x Scope": 162,
+    "AWM Scope": 189,
+    "Free Look": 151
+  },
+  "Infinix Note 30 355": {
+    "DPI": 495,
+    "General": 169,
+    "Red Dot": 155,
+    "2x Scope": 171,
+    "4x Scope": 185,
+    "AWM Scope": 151,
+    "Free Look": 139
+  },
+  "Xiaomi Redmi Note 12 Pro 356": {
+    "DPI": 402,
+    "General": 169,
+    "Red Dot": 190,
+    "2x Scope": 157,
+    "4x Scope": 151,
+    "AWM Scope": 186,
+    "Free Look": 197
+  },
+  "Poco X5 Pro 357": {
+    "DPI": 427,
+    "General": 184,
+    "Red Dot": 156,
+    "2x Scope": 166,
+    "4x Scope": 196,
+    "AWM Scope": 140,
+    "Free Look": 158
+  },
+  "Motorola Edge 40 358": {
+    "DPI": 407,
+    "General": 175,
+    "Red Dot": 163,
+    "2x Scope": 179,
+    "4x Scope": 173,
+    "AWM Scope": 181,
+    "Free Look": 152
+  },
+  "Infinix Zero Ultra 359": {
+    "DPI": 484,
+    "General": 168,
+    "Red Dot": 176,
+    "2x Scope": 199,
+    "4x Scope": 189,
+    "AWM Scope": 146,
+    "Free Look": 132
+  },
+  "Vivo V27 Pro 360": {
+    "DPI": 452,
+    "General": 183,
+    "Red Dot": 161,
+    "2x Scope": 157,
+    "4x Scope": 164,
+    "AWM Scope": 145,
+    "Free Look": 161
+  },
+  "iQOO Neo 6 361": {
+    "DPI": 489,
+    "General": 181,
+    "Red Dot": 185,
+    "2x Scope": 183,
+    "4x Scope": 166,
+    "AWM Scope": 132,
+    "Free Look": 173
+  },
+  "Poco X5 Pro 362": {
+    "DPI": 497,
+    "General": 153,
+    "Red Dot": 167,
+    "2x Scope": 156,
+    "4x Scope": 171,
+    "AWM Scope": 154,
+    "Free Look": 198
+  },
+  "Realme GT Master Edition 363": {
+    "DPI": 466,
+    "General": 160,
+    "Red Dot": 191,
+    "2x Scope": 199,
+    "4x Scope": 191,
+    "AWM Scope": 151,
+    "Free Look": 144
+  },
+  "Xiaomi Redmi Note 11 Pro 364": {
+    "DPI": 474,
+    "General": 150,
+    "Red Dot": 169,
+    "2x Scope": 181,
+    "4x Scope": 186,
+    "AWM Scope": 131,
+    "Free Look": 138
+  },
+  "Oppo Find X3 Pro 365": {
+    "DPI": 497,
+    "General": 176,
+    "Red Dot": 157,
+    "2x Scope": 167,
+    "4x Scope": 189,
+    "AWM Scope": 131,
+    "Free Look": 162
+  },
+  "Oppo Find X5 366": {
+    "DPI": 474,
+    "General": 198,
+    "Red Dot": 179,
+    "2x Scope": 157,
+    "4x Scope": 199,
+    "AWM Scope": 146,
+    "Free Look": 148
+  },
+  "Realme Realme X7 Max 367": {
+    "DPI": 406,
+    "General": 195,
+    "Red Dot": 181,
+    "2x Scope": 167,
+    "4x Scope": 187,
+    "AWM Scope": 153,
+    "Free Look": 152
+  },
+  "Oppo Find X3 Pro 368": {
+    "DPI": 425,
+    "General": 199,
+    "Red Dot": 170,
+    "2x Scope": 200,
+    "4x Scope": 180,
+    "AWM Scope": 136,
+    "Free Look": 134
+  },
+  "Poco X3 Pro 369": {
+    "DPI": 443,
+    "General": 194,
+    "Red Dot": 177,
+    "2x Scope": 192,
+    "4x Scope": 195,
+    "AWM Scope": 139,
+    "Free Look": 156
+  },
+  "Xiaomi Black Shark 6 370": {
+    "DPI": 416,
+    "General": 180,
+    "Red Dot": 187,
+    "2x Scope": 181,
+    "4x Scope": 153,
+    "AWM Scope": 178,
+    "Free Look": 162
+  },
+  "Infinix Zero 30 371": {
+    "DPI": 427,
+    "General": 178,
+    "Red Dot": 161,
+    "2x Scope": 173,
+    "4x Scope": 179,
+    "AWM Scope": 132,
+    "Free Look": 181
+  },
+  "Xiaomi Poco X5 Pro 372": {
+    "DPI": 489,
+    "General": 180,
+    "Red Dot": 153,
+    "2x Scope": 177,
+    "4x Scope": 156,
+    "AWM Scope": 148,
+    "Free Look": 173
+  },
+  "Xiaomi Mi 13 373": {
+    "DPI": 422,
+    "General": 182,
+    "Red Dot": 151,
+    "2x Scope": 196,
+    "4x Scope": 188,
+    "AWM Scope": 194,
+    "Free Look": 143
+  },
+  "Xiaomi Redmi Note 12 Pro 374": {
+    "DPI": 476,
+    "General": 165,
+    "Red Dot": 170,
+    "2x Scope": 162,
+    "4x Scope": 163,
+    "AWM Scope": 140,
+    "Free Look": 146
+  },
+  "Vivo iQOO 11 375": {
+    "DPI": 421,
+    "General": 198,
+    "Red Dot": 172,
+    "2x Scope": 173,
+    "4x Scope": 195,
+    "AWM Scope": 199,
+    "Free Look": 180
+  },
+  "Infinix Note 12 Pro 376": {
+    "DPI": 458,
+    "General": 173,
+    "Red Dot": 176,
+    "2x Scope": 191,
+    "4x Scope": 179,
+    "AWM Scope": 197,
+    "Free Look": 188
+  },
+  "Realme GT Neo 5 377": {
+    "DPI": 406,
+    "General": 172,
+    "Red Dot": 155,
+    "2x Scope": 162,
+    "4x Scope": 187,
+    "AWM Scope": 133,
+    "Free Look": 147
+  },
+  "Infinix Zero Ultra 378": {
+    "DPI": 421,
+    "General": 178,
+    "Red Dot": 194,
+    "2x Scope": 172,
+    "4x Scope": 165,
+    "AWM Scope": 157,
+    "Free Look": 149
+  },
+  "Realme GT 2 Pro 379": {
+    "DPI": 424,
+    "General": 193,
+    "Red Dot": 168,
+    "2x Scope": 194,
+    "4x Scope": 153,
+    "AWM Scope": 152,
+    "Free Look": 145
+  },
+  "Realme Realme X7 Max 380": {
+    "DPI": 401,
+    "General": 194,
+    "Red Dot": 184,
+    "2x Scope": 186,
+    "4x Scope": 156,
+    "AWM Scope": 147,
+    "Free Look": 152
+  },
+  "Samsung Galaxy S23 381": {
+    "DPI": 421,
+    "General": 170,
+    "Red Dot": 181,
+    "2x Scope": 170,
+    "4x Scope": 197,
+    "AWM Scope": 192,
+    "Free Look": 138
+  },
+  "Samsung Galaxy S22 382": {
+    "DPI": 441,
+    "General": 182,
+    "Red Dot": 150,
+    "2x Scope": 177,
+    "4x Scope": 200,
+    "AWM Scope": 159,
+    "Free Look": 193
+  },
+  "iQOO Z6 Pro 383": {
+    "DPI": 467,
+    "General": 195,
+    "Red Dot": 174,
+    "2x Scope": 164,
+    "4x Scope": 199,
+    "AWM Scope": 142,
+    "Free Look": 142
+  },
+  "Realme Realme 11 Pro 384": {
+    "DPI": 492,
+    "General": 200,
+    "Red Dot": 168,
+    "2x Scope": 160,
+    "4x Scope": 164,
+    "AWM Scope": 145,
+    "Free Look": 178
+  },
+  "Motorola Edge 20 Pro 385": {
+    "DPI": 470,
+    "General": 182,
+    "Red Dot": 184,
+    "2x Scope": 189,
+    "4x Scope": 175,
+    "AWM Scope": 191,
+    "Free Look": 151
+  },
+  "iQOO Neo 5 386": {
+    "DPI": 437,
+    "General": 172,
+    "Red Dot": 163,
+    "2x Scope": 198,
+    "4x Scope": 191,
+    "AWM Scope": 138,
+    "Free Look": 188
+  },
+  "Poco X4 Pro 387": {
+    "DPI": 414,
+    "General": 186,
+    "Red Dot": 156,
+    "2x Scope": 180,
+    "4x Scope": 151,
+    "AWM Scope": 180,
+    "Free Look": 181
+  },
+  "Infinix Zero 30 388": {
+    "DPI": 403,
+    "General": 159,
+    "Red Dot": 196,
+    "2x Scope": 173,
+    "4x Scope": 191,
+    "AWM Scope": 144,
+    "Free Look": 179
+  },
+  "Infinix Note 12 Pro 389": {
+    "DPI": 438,
+    "General": 180,
+    "Red Dot": 160,
+    "2x Scope": 173,
+    "4x Scope": 161,
+    "AWM Scope": 189,
+    "Free Look": 152
+  },
+  "Poco X4 Pro 390": {
+    "DPI": 421,
+    "General": 167,
+    "Red Dot": 161,
+    "2x Scope": 153,
+    "4x Scope": 172,
+    "AWM Scope": 139,
+    "Free Look": 130
+  },
+  "Vivo V27 Pro 391": {
+    "DPI": 426,
+    "General": 185,
+    "Red Dot": 167,
+    "2x Scope": 200,
+    "4x Scope": 197,
+    "AWM Scope": 197,
+    "Free Look": 167
+  },
+  "Oppo Find X5 392": {
+    "DPI": 486,
+    "General": 172,
+    "Red Dot": 156,
+    "2x Scope": 191,
+    "4x Scope": 190,
+    "AWM Scope": 192,
+    "Free Look": 186
+  },
+  "Poco F4 GT 393": {
+    "DPI": 427,
+    "General": 168,
+    "Red Dot": 192,
+    "2x Scope": 196,
+    "4x Scope": 184,
+    "AWM Scope": 171,
+    "Free Look": 152
+  },
+  "iQOO Neo 7 394": {
+    "DPI": 451,
+    "General": 190,
+    "Red Dot": 199,
+    "2x Scope": 182,
+    "4x Scope": 162,
+    "AWM Scope": 174,
+    "Free Look": 165
+  },
+  "Vivo V25 Pro 395": {
+    "DPI": 437,
+    "General": 198,
+    "Red Dot": 154,
+    "2x Scope": 191,
+    "4x Scope": 171,
+    "AWM Scope": 181,
+    "Free Look": 183
+  },
+  "Xiaomi Mi 13 396": {
+    "DPI": 436,
+    "General": 173,
+    "Red Dot": 170,
+    "2x Scope": 189,
+    "4x Scope": 154,
+    "AWM Scope": 157,
+    "Free Look": 166
+  },
+  "iQOO Neo 5 397": {
+    "DPI": 468,
+    "General": 187,
+    "Red Dot": 158,
+    "2x Scope": 179,
+    "4x Scope": 176,
+    "AWM Scope": 200,
+    "Free Look": 181
+  },
+  "Oppo Reno 9 Pro 398": {
+    "DPI": 479,
+    "General": 187,
+    "Red Dot": 188,
+    "2x Scope": 180,
+    "4x Scope": 183,
+    "AWM Scope": 184,
+    "Free Look": 175
+  },
+  "Xiaomi Poco X5 Pro 399": {
+    "DPI": 425,
+    "General": 197,
+    "Red Dot": 168,
+    "2x Scope": 177,
+    "4x Scope": 179,
+    "AWM Scope": 162,
+    "Free Look": 145
+  },
+  "iQOO Neo 7 400": {
+    "DPI": 495,
+    "General": 158,
+    "Red Dot": 167,
+    "2x Scope": 150,
+    "4x Scope": 163,
+    "AWM Scope": 160,
+    "Free Look": 145
+  },
+  "Poco X4 Pro 401": {
+    "DPI": 492,
+    "General": 157,
+    "Red Dot": 154,
+    "2x Scope": 171,
+    "4x Scope": 174,
+    "AWM Scope": 133,
+    "Free Look": 184
+  },
+  "Realme Realme X7 Max 402": {
+    "DPI": 498,
+    "General": 187,
+    "Red Dot": 161,
+    "2x Scope": 190,
+    "4x Scope": 174,
+    "AWM Scope": 158,
+    "Free Look": 164
+  },
+  "Samsung Galaxy Z Fold 5 403": {
+    "DPI": 483,
+    "General": 157,
+    "Red Dot": 186,
+    "2x Scope": 169,
+    "4x Scope": 189,
+    "AWM Scope": 143,
+    "Free Look": 154
+  },
+  "Vivo V27 Pro 404": {
+    "DPI": 404,
+    "General": 166,
+    "Red Dot": 163,
+    "2x Scope": 190,
+    "4x Scope": 181,
+    "AWM Scope": 174,
+    "Free Look": 181
+  },
+  "Realme Realme X7 Max 405": {
+    "DPI": 444,
+    "General": 165,
+    "Red Dot": 187,
+    "2x Scope": 171,
+    "4x Scope": 190,
+    "AWM Scope": 190,
+    "Free Look": 166
+  },
+  "Realme Realme 11 Pro 406": {
+    "DPI": 427,
+    "General": 156,
+    "Red Dot": 154,
+    "2x Scope": 152,
+    "4x Scope": 174,
+    "AWM Scope": 167,
+    "Free Look": 165
+  },
+  "Oppo Reno 9 Pro 407": {
+    "DPI": 405,
+    "General": 189,
+    "Red Dot": 187,
+    "2x Scope": 162,
+    "4x Scope": 171,
+    "AWM Scope": 175,
+    "Free Look": 181
+  },
+  "Xiaomi Redmi Note 12 Pro 408": {
+    "DPI": 448,
+    "General": 198,
+    "Red Dot": 167,
+    "2x Scope": 172,
+    "4x Scope": 164,
+    "AWM Scope": 158,
+    "Free Look": 145
+  },
+  "Poco F4 GT 409": {
+    "DPI": 405,
+    "General": 173,
+    "Red Dot": 150,
+    "2x Scope": 173,
+    "4x Scope": 183,
+    "AWM Scope": 136,
+    "Free Look": 138
+  },
+  "Vivo V27 Pro 410": {
+    "DPI": 486,
+    "General": 164,
+    "Red Dot": 191,
+    "2x Scope": 182,
+    "4x Scope": 157,
+    "AWM Scope": 154,
+    "Free Look": 138
+  },
+  "Vivo iQOO 10 411": {
+    "DPI": 484,
+    "General": 157,
+    "Red Dot": 172,
+    "2x Scope": 157,
+    "4x Scope": 179,
+    "AWM Scope": 157,
+    "Free Look": 180
+  },
+  "Samsung Galaxy S22 412": {
+    "DPI": 486,
+    "General": 183,
+    "Red Dot": 157,
+    "2x Scope": 191,
+    "4x Scope": 162,
+    "AWM Scope": 186,
+    "Free Look": 198
+  },
+  "iQOO Z7 Pro 413": {
+    "DPI": 426,
+    "General": 182,
+    "Red Dot": 175,
+    "2x Scope": 180,
+    "4x Scope": 174,
+    "AWM Scope": 174,
+    "Free Look": 146
+  },
+  "Realme GT 2 Pro 414": {
+    "DPI": 437,
+    "General": 154,
+    "Red Dot": 193,
+    "2x Scope": 182,
+    "4x Scope": 159,
+    "AWM Scope": 176,
+    "Free Look": 199
+  },
+  "Oppo Find X3 Pro 415": {
+    "DPI": 405,
+    "General": 185,
+    "Red Dot": 188,
+    "2x Scope": 177,
+    "4x Scope": 200,
+    "AWM Scope": 140,
+    "Free Look": 190
+  },
+  "Oppo Reno 7 416": {
+    "DPI": 419,
+    "General": 186,
+    "Red Dot": 150,
+    "2x Scope": 157,
+    "4x Scope": 172,
+    "AWM Scope": 162,
+    "Free Look": 149
+  },
+  "Realme GT Neo 5 417": {
+    "DPI": 431,
+    "General": 197,
+    "Red Dot": 169,
+    "2x Scope": 166,
+    "4x Scope": 152,
+    "AWM Scope": 154,
+    "Free Look": 172
+  },
+  "Xiaomi Redmi Note 12 Pro 418": {
+    "DPI": 454,
+    "General": 152,
+    "Red Dot": 194,
+    "2x Scope": 188,
+    "4x Scope": 176,
+    "AWM Scope": 167,
+    "Free Look": 193
+  },
+  "iQOO Neo 5 419": {
+    "DPI": 475,
+    "General": 166,
+    "Red Dot": 168,
+    "2x Scope": 198,
+    "4x Scope": 179,
+    "AWM Scope": 169,
+    "Free Look": 176
+  },
+  "Motorola Edge 40 420": {
+    "DPI": 468,
+    "General": 166,
+    "Red Dot": 158,
+    "2x Scope": 159,
+    "4x Scope": 186,
+    "AWM Scope": 167,
+    "Free Look": 137
+  },
+  "Vivo iQOO 10 421": {
+    "DPI": 465,
+    "General": 194,
+    "Red Dot": 198,
+    "2x Scope": 177,
+    "4x Scope": 176,
+    "AWM Scope": 197,
+    "Free Look": 178
+  },
+  "Poco F4 GT 422": {
+    "DPI": 444,
+    "General": 159,
+    "Red Dot": 193,
+    "2x Scope": 165,
+    "4x Scope": 176,
+    "AWM Scope": 186,
+    "Free Look": 152
+  },
+  "Infinix Zero 30 423": {
+    "DPI": 435,
+    "General": 153,
+    "Red Dot": 179,
+    "2x Scope": 190,
+    "4x Scope": 157,
+    "AWM Scope": 185,
+    "Free Look": 190
+  },
+  "Infinix Zero Ultra 424": {
+    "DPI": 421,
+    "General": 198,
+    "Red Dot": 182,
+    "2x Scope": 170,
+    "4x Scope": 183,
+    "AWM Scope": 170,
+    "Free Look": 154
+  },
+  "Oppo Find X5 425": {
+    "DPI": 414,
+    "General": 187,
+    "Red Dot": 180,
+    "2x Scope": 155,
+    "4x Scope": 156,
+    "AWM Scope": 150,
+    "Free Look": 146
+  },
+  "Xiaomi Mi 13 426": {
+    "DPI": 429,
+    "General": 186,
+    "Red Dot": 178,
+    "2x Scope": 199,
+    "4x Scope": 196,
+    "AWM Scope": 145,
+    "Free Look": 169
+  },
+  "Oppo Reno 7 427": {
+    "DPI": 415,
+    "General": 161,
+    "Red Dot": 178,
+    "2x Scope": 156,
+    "4x Scope": 170,
+    "AWM Scope": 142,
+    "Free Look": 163
+  },
+  "Xiaomi Mi 13 428": {
+    "DPI": 494,
+    "General": 195,
+    "Red Dot": 162,
+    "2x Scope": 192,
+    "4x Scope": 160,
+    "AWM Scope": 173,
+    "Free Look": 151
+  },
+  "Xiaomi Mi 13 429": {
+    "DPI": 475,
+    "General": 153,
+    "Red Dot": 180,
+    "2x Scope": 190,
+    "4x Scope": 162,
+    "AWM Scope": 166,
+    "Free Look": 136
+  },
+  "iQOO Neo 7 430": {
+    "DPI": 437,
+    "General": 168,
+    "Red Dot": 196,
+    "2x Scope": 183,
+    "4x Scope": 177,
+    "AWM Scope": 193,
+    "Free Look": 161
+  },
+  "Oppo Reno 7 431": {
+    "DPI": 417,
+    "General": 190,
+    "Red Dot": 197,
+    "2x Scope": 192,
+    "4x Scope": 178,
+    "AWM Scope": 160,
+    "Free Look": 186
+  },
+  "Oppo Reno 9 Pro 432": {
+    "DPI": 469,
+    "General": 159,
+    "Red Dot": 160,
+    "2x Scope": 158,
+    "4x Scope": 160,
+    "AWM Scope": 150,
+    "Free Look": 175
+  },
+  "Poco X3 Pro 433": {
+    "DPI": 424,
+    "General": 175,
+    "Red Dot": 185,
+    "2x Scope": 161,
+    "4x Scope": 188,
+    "AWM Scope": 132,
+    "Free Look": 180
+  },
+  "Oppo Reno 7 434": {
+    "DPI": 464,
+    "General": 198,
+    "Red Dot": 178,
+    "2x Scope": 158,
+    "4x Scope": 173,
+    "AWM Scope": 164,
+    "Free Look": 141
+  },
+  "Oppo Reno 9 Pro 435": {
+    "DPI": 411,
+    "General": 163,
+    "Red Dot": 170,
+    "2x Scope": 169,
+    "4x Scope": 166,
+    "AWM Scope": 194,
+    "Free Look": 140
+  },
+  "Infinix Note 30 436": {
+    "DPI": 491,
+    "General": 175,
+    "Red Dot": 165,
+    "2x Scope": 188,
+    "4x Scope": 180,
+    "AWM Scope": 197,
+    "Free Look": 135
+  },
+  "Xiaomi Redmi Note 12 Pro 437": {
+    "DPI": 437,
+    "General": 153,
+    "Red Dot": 174,
+    "2x Scope": 152,
+    "4x Scope": 191,
+    "AWM Scope": 157,
+    "Free Look": 158
+  },
+  "Vivo V25 Pro 438": {
+    "DPI": 471,
+    "General": 167,
+    "Red Dot": 171,
+    "2x Scope": 182,
+    "4x Scope": 200,
+    "AWM Scope": 138,
+    "Free Look": 180
+  },
+  "Xiaomi Poco X5 Pro 439": {
+    "DPI": 418,
+    "General": 152,
+    "Red Dot": 162,
+    "2x Scope": 155,
+    "4x Scope": 190,
+    "AWM Scope": 168,
+    "Free Look": 159
+  },
+  "Oppo Reno 9 Pro 440": {
+    "DPI": 412,
+    "General": 194,
+    "Red Dot": 170,
+    "2x Scope": 167,
+    "4x Scope": 196,
+    "AWM Scope": 179,
+    "Free Look": 163
+  },
+  "Xiaomi Poco X5 Pro 441": {
+    "DPI": 444,
+    "General": 192,
+    "Red Dot": 176,
+    "2x Scope": 199,
+    "4x Scope": 160,
+    "AWM Scope": 169,
+    "Free Look": 159
+  },
+  "Oppo Reno 8 Pro 442": {
+    "DPI": 462,
+    "General": 194,
+    "Red Dot": 171,
+    "2x Scope": 190,
+    "4x Scope": 188,
+    "AWM Scope": 170,
+    "Free Look": 192
+  },
+  "Oppo Reno 9 Pro 443": {
+    "DPI": 484,
+    "General": 154,
+    "Red Dot": 153,
+    "2x Scope": 200,
+    "4x Scope": 195,
+    "AWM Scope": 131,
+    "Free Look": 152
+  },
+  "iQOO Neo 6 444": {
+    "DPI": 416,
+    "General": 186,
+    "Red Dot": 191,
+    "2x Scope": 166,
+    "4x Scope": 198,
+    "AWM Scope": 183,
+    "Free Look": 138
+  },
+  "Motorola Edge 30 445": {
+    "DPI": 449,
+    "General": 160,
+    "Red Dot": 158,
+    "2x Scope": 179,
+    "4x Scope": 184,
+    "AWM Scope": 174,
+    "Free Look": 190
+  },
+  "Vivo V25 Pro 446": {
+    "DPI": 494,
+    "General": 163,
+    "Red Dot": 156,
+    "2x Scope": 180,
+    "4x Scope": 180,
+    "AWM Scope": 172,
+    "Free Look": 164
+  },
+  "Infinix Note 12 Pro 447": {
+    "DPI": 453,
+    "General": 171,
+    "Red Dot": 171,
+    "2x Scope": 177,
+    "4x Scope": 161,
+    "AWM Scope": 173,
+    "Free Look": 132
+  },
+  "Samsung Galaxy S22 448": {
+    "DPI": 473,
+    "General": 164,
+    "Red Dot": 184,
+    "2x Scope": 150,
+    "4x Scope": 196,
+    "AWM Scope": 154,
+    "Free Look": 164
+  },
+  "Samsung Galaxy A53 449": {
+    "DPI": 405,
+    "General": 190,
+    "Red Dot": 192,
+    "2x Scope": 195,
+    "4x Scope": 197,
+    "AWM Scope": 176,
+    "Free Look": 149
+  },
+  "Infinix Zero 20 450": {
+    "DPI": 416,
+    "General": 189,
+    "Red Dot": 172,
+    "2x Scope": 183,
+    "4x Scope": 150,
+    "AWM Scope": 163,
+    "Free Look": 167
+  },
+  "Motorola Edge 30 451": {
+    "DPI": 430,
+    "General": 177,
+    "Red Dot": 161,
+    "2x Scope": 189,
+    "4x Scope": 178,
+    "AWM Scope": 166,
+    "Free Look": 195
+  },
+  "Xiaomi Redmi Note 11 Pro 452": {
+    "DPI": 458,
+    "General": 171,
+    "Red Dot": 174,
+    "2x Scope": 150,
+    "4x Scope": 192,
+    "AWM Scope": 160,
+    "Free Look": 143
+  },
+  "Realme GT 2 Pro 453": {
+    "DPI": 482,
+    "General": 191,
+    "Red Dot": 176,
+    "2x Scope": 161,
+    "4x Scope": 188,
+    "AWM Scope": 176,
+    "Free Look": 132
+  },
+  "iQOO Neo 6 454": {
+    "DPI": 462,
+    "General": 178,
+    "Red Dot": 189,
+    "2x Scope": 167,
+    "4x Scope": 157,
+    "AWM Scope": 188,
+    "Free Look": 141
+  },
+  "Realme Realme 11 Pro 455": {
+    "DPI": 473,
+    "General": 151,
+    "Red Dot": 193,
+    "2x Scope": 163,
+    "4x Scope": 163,
+    "AWM Scope": 196,
+    "Free Look": 193
+  },
+  "Infinix Note 30 456": {
+    "DPI": 441,
+    "General": 178,
+    "Red Dot": 189,
+    "2x Scope": 195,
+    "4x Scope": 162,
+    "AWM Scope": 159,
+    "Free Look": 196
+  },
+  "Motorola Edge 30 Ultra 457": {
+    "DPI": 446,
+    "General": 165,
+    "Red Dot": 200,
+    "2x Scope": 184,
+    "4x Scope": 159,
+    "AWM Scope": 179,
+    "Free Look": 184
+  },
+  "iQOO Neo 5 458": {
+    "DPI": 450,
+    "General": 190,
+    "Red Dot": 189,
+    "2x Scope": 187,
+    "4x Scope": 155,
+    "AWM Scope": 198,
+    "Free Look": 177
+  },
+  "Oppo Reno 8 Pro 459": {
+    "DPI": 489,
+    "General": 198,
+    "Red Dot": 184,
+    "2x Scope": 172,
+    "4x Scope": 198,
+    "AWM Scope": 132,
+    "Free Look": 140
+  },
+  "Oppo Reno 7 460": {
+    "DPI": 433,
+    "General": 181,
+    "Red Dot": 151,
+    "2x Scope": 162,
+    "4x Scope": 163,
+    "AWM Scope": 133,
+    "Free Look": 175
+  },
+  "Samsung Galaxy S22 461": {
+    "DPI": 443,
+    "General": 157,
+    "Red Dot": 196,
+    "2x Scope": 179,
+    "4x Scope": 164,
+    "AWM Scope": 145,
+    "Free Look": 170
+  },
+  "Infinix Note 12 Pro 462": {
+    "DPI": 435,
+    "General": 162,
+    "Red Dot": 176,
+    "2x Scope": 200,
+    "4x Scope": 194,
+    "AWM Scope": 171,
+    "Free Look": 131
+  },
+  "Xiaomi Black Shark 6 463": {
+    "DPI": 429,
+    "General": 192,
+    "Red Dot": 156,
+    "2x Scope": 151,
+    "4x Scope": 158,
+    "AWM Scope": 161,
+    "Free Look": 197
+  },
+  "Vivo V23 464": {
+    "DPI": 409,
+    "General": 190,
+    "Red Dot": 151,
+    "2x Scope": 194,
+    "4x Scope": 197,
+    "AWM Scope": 187,
+    "Free Look": 139
+  },
+  "Poco X5 Pro 465": {
+    "DPI": 486,
+    "General": 185,
+    "Red Dot": 178,
+    "2x Scope": 199,
+    "4x Scope": 194,
+    "AWM Scope": 153,
+    "Free Look": 162
+  },
+  "Vivo iQOO 11 466": {
+    "DPI": 454,
+    "General": 194,
+    "Red Dot": 190,
+    "2x Scope": 194,
+    "4x Scope": 185,
+    "AWM Scope": 197,
+    "Free Look": 193
+  },
+  "iQOO Neo 7 467": {
+    "DPI": 493,
+    "General": 188,
+    "Red Dot": 198,
+    "2x Scope": 194,
+    "4x Scope": 164,
+    "AWM Scope": 131,
+    "Free Look": 182
+  },
+  "Realme GT Master Edition 468": {
+    "DPI": 405,
+    "General": 165,
+    "Red Dot": 173,
+    "2x Scope": 184,
+    "4x Scope": 166,
+    "AWM Scope": 131,
+    "Free Look": 154
+  },
+  "Vivo iQOO 10 469": {
+    "DPI": 460,
+    "General": 171,
+    "Red Dot": 200,
+    "2x Scope": 150,
+    "4x Scope": 195,
+    "AWM Scope": 182,
+    "Free Look": 157
+  },
+  "Samsung Galaxy S22 470": {
+    "DPI": 436,
+    "General": 199,
+    "Red Dot": 187,
+    "2x Scope": 193,
+    "4x Scope": 191,
+    "AWM Scope": 199,
+    "Free Look": 198
+  },
+  "Poco F3 GT 471": {
+    "DPI": 416,
+    "General": 154,
+    "Red Dot": 161,
+    "2x Scope": 192,
+    "4x Scope": 155,
+    "AWM Scope": 167,
+    "Free Look": 154
+  },
+  "Infinix Zero 20 472": {
+    "DPI": 465,
+    "General": 153,
+    "Red Dot": 181,
+    "2x Scope": 151,
+    "4x Scope": 166,
+    "AWM Scope": 146,
+    "Free Look": 141
+  },
+  "Vivo V25 Pro 473": {
+    "DPI": 413,
+    "General": 196,
+    "Red Dot": 200,
+    "2x Scope": 175,
+    "4x Scope": 197,
+    "AWM Scope": 177,
+    "Free Look": 180
+  },
+  "Xiaomi Poco X5 Pro 474": {
+    "DPI": 465,
+    "General": 168,
+    "Red Dot": 191,
+    "2x Scope": 173,
+    "4x Scope": 192,
+    "AWM Scope": 142,
+    "Free Look": 176
+  },
+  "Realme Realme X7 Max 475": {
+    "DPI": 427,
+    "General": 192,
+    "Red Dot": 195,
+    "2x Scope": 189,
+    "4x Scope": 156,
+    "AWM Scope": 195,
+    "Free Look": 156
+  },
+  "Infinix Note 12 Pro 476": {
+    "DPI": 412,
+    "General": 177,
+    "Red Dot": 199,
+    "2x Scope": 173,
+    "4x Scope": 182,
+    "AWM Scope": 134,
+    "Free Look": 169
+  },
+  "Samsung Galaxy Z Fold 5 477": {
+    "DPI": 492,
+    "General": 177,
+    "Red Dot": 179,
+    "2x Scope": 181,
+    "4x Scope": 190,
+    "AWM Scope": 141,
+    "Free Look": 146
+  },
+  "Infinix Zero Ultra 478": {
+    "DPI": 458,
+    "General": 175,
+    "Red Dot": 152,
+    "2x Scope": 183,
+    "4x Scope": 163,
+    "AWM Scope": 159,
+    "Free Look": 200
+  },
+  "Poco X5 Pro 479": {
+    "DPI": 405,
+    "General": 186,
+    "Red Dot": 171,
+    "2x Scope": 151,
+    "4x Scope": 172,
+    "AWM Scope": 131,
+    "Free Look": 188
+  },
+  "Infinix Zero Ultra 480": {
+    "DPI": 420,
+    "General": 197,
+    "Red Dot": 183,
+    "2x Scope": 177,
+    "4x Scope": 183,
+    "AWM Scope": 179,
+    "Free Look": 135
+  },
+  "Xiaomi Redmi Note 11 Pro 481": {
+    "DPI": 403,
+    "General": 170,
+    "Red Dot": 198,
+    "2x Scope": 183,
+    "4x Scope": 178,
+    "AWM Scope": 147,
+    "Free Look": 178
+  },
+  "Vivo V27 Pro 482": {
+    "DPI": 495,
+    "General": 175,
+    "Red Dot": 155,
+    "2x Scope": 198,
+    "4x Scope": 172,
+    "AWM Scope": 178,
+    "Free Look": 164
+  },
+  "Realme GT 2 Pro 483": {
+    "DPI": 430,
+    "General": 194,
+    "Red Dot": 159,
+    "2x Scope": 191,
+    "4x Scope": 167,
+    "AWM Scope": 157,
+    "Free Look": 166
+  },
+  "Realme GT Neo 5 484": {
+    "DPI": 418,
+    "General": 167,
+    "Red Dot": 174,
+    "2x Scope": 193,
+    "4x Scope": 177,
+    "AWM Scope": 165,
+    "Free Look": 192
+  },
+  "Infinix Note 30 485": {
+    "DPI": 430,
+    "General": 187,
+    "Red Dot": 196,
+    "2x Scope": 187,
+    "4x Scope": 183,
+    "AWM Scope": 174,
+    "Free Look": 180
+  },
+  "Infinix Zero 20 486": {
+    "DPI": 420,
+    "General": 153,
+    "Red Dot": 175,
+    "2x Scope": 191,
+    "4x Scope": 181,
+    "AWM Scope": 183,
+    "Free Look": 164
+  },
+  "iQOO Z6 Pro 487": {
+    "DPI": 449,
+    "General": 198,
+    "Red Dot": 178,
+    "2x Scope": 194,
+    "4x Scope": 179,
+    "AWM Scope": 134,
+    "Free Look": 175
+  },
+  "Realme Realme X7 Max 488": {
+    "DPI": 412,
+    "General": 168,
+    "Red Dot": 161,
+    "2x Scope": 197,
+    "4x Scope": 178,
+    "AWM Scope": 164,
+    "Free Look": 169
+  },
+  "Realme GT Master Edition 489": {
+    "DPI": 417,
+    "General": 189,
+    "Red Dot": 160,
+    "2x Scope": 160,
+    "4x Scope": 187,
+    "AWM Scope": 145,
+    "Free Look": 186
+  },
+  "Xiaomi Black Shark 6 490": {
+    "DPI": 409,
+    "General": 151,
+    "Red Dot": 168,
+    "2x Scope": 185,
+    "4x Scope": 197,
+    "AWM Scope": 150,
+    "Free Look": 184
+  },
+  "Realme Realme X7 Max 491": {
+    "DPI": 478,
+    "General": 173,
+    "Red Dot": 185,
+    "2x Scope": 161,
+    "4x Scope": 166,
+    "AWM Scope": 192,
+    "Free Look": 164
+  },
+  "Xiaomi Redmi Note 12 Pro 492": {
+    "DPI": 400,
+    "General": 167,
+    "Red Dot": 159,
+    "2x Scope": 170,
+    "4x Scope": 182,
+    "AWM Scope": 159,
+    "Free Look": 139
+  },
+  "Realme Realme 11 Pro 493": {
+    "DPI": 423,
+    "General": 152,
+    "Red Dot": 164,
+    "2x Scope": 176,
+    "4x Scope": 179,
+    "AWM Scope": 172,
+    "Free Look": 156
+  },
+  "Oppo Reno 7 494": {
+    "DPI": 499,
+    "General": 199,
+    "Red Dot": 185,
+    "2x Scope": 194,
+    "4x Scope": 176,
+    "AWM Scope": 134,
+    "Free Look": 140
+  },
+  "Realme Realme 11 Pro 495": {
+    "DPI": 469,
+    "General": 174,
+    "Red Dot": 184,
+    "2x Scope": 150,
+    "4x Scope": 197,
+    "AWM Scope": 196,
+    "Free Look": 198
+  },
+  "iQOO Neo 7 496": {
+    "DPI": 438,
+    "General": 178,
+    "Red Dot": 157,
+    "2x Scope": 192,
+    "4x Scope": 177,
+    "AWM Scope": 187,
+    "Free Look": 136
+  },
+  "Poco X3 Pro 497": {
+    "DPI": 498,
+    "General": 170,
+    "Red Dot": 187,
+    "2x Scope": 170,
+    "4x Scope": 181,
+    "AWM Scope": 135,
+    "Free Look": 193
+  },
+  "Samsung Galaxy S23 498": {
+    "DPI": 459,
+    "General": 173,
+    "Red Dot": 158,
+    "2x Scope": 184,
+    "4x Scope": 153,
+    "AWM Scope": 188,
+    "Free Look": 139
+  },
+  "Poco X5 Pro 499": {
+    "DPI": 430,
+    "General": 193,
+    "Red Dot": 158,
+    "2x Scope": 194,
+    "4x Scope": 177,
+    "AWM Scope": 194,
+    "Free Look": 146
+  },
+  "iQOO Neo 6 500": {
+    "DPI": 442,
+    "General": 164,
+    "Red Dot": 166,
+    "2x Scope": 195,
+    "4x Scope": 192,
+    "AWM Scope": 140,
+    "Free Look": 130
+  }
+}
