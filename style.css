@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #1c0b0b;
+  color: #fff;
+}
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #2b0f0f;
+  border-radius: 10px;
+}
+h1 {
+  color: #ff4d4d;
+  text-align: center;
+}
+#search {
+  width: 100%;
+  padding: 10px;
+  margin: 15px 0;
+  border-radius: 5px;
+  border: none;
+}
+.phone-item {
+  background: #3b0f0f;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.phone-item:hover {
+  background: #ff1a1a;
+}
+.settings {
+  display: none;
+  padding: 10px;
+  background: #4d0f0f;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.setting-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
