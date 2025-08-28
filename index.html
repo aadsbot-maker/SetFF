@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>SET FF</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+:root{
+  --bg:#f3f6fb;
+  --card:#ffffff;
+  --accent1:#4e73df;
+  --accent2:#1cc88a;
+  --muted:#6b7280;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:"Cairo",sans-serif;background:var(--bg);color:#222;}
+header{background:linear-gradient(135deg,var(--accent1),var(--accent2));padding:18px 14px;text-align:center;color:white;box-shadow:0 2px 10px rgba(0,0,0,0.08);}
+header h1{margin:0;font-size:26px;letter-spacing:2px;}
+header p{margin:6px 0 0;font-size:13px;opacity:0.95;}
+.wrap{max-width:1100px;margin:14px auto;padding:0 12px;}
+.search-row{display:flex;gap:10px;align-items:center;margin:12px 0;}
+.search-row input{flex:1;padding:10px 12px;border-radius:10px;border:1px solid #e2e8f0;font-size:15px;outline:none;background:white;}
+.brand-list{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 16px;}
+.brand-btn{padding:8px 14px;border-radius:18px;border:none;cursor:pointer;font-size:14px;background:#e9eefc;color:var(--accent1);transition: transform .12s, box-shadow .12s;}
+.brand-btn.active{background:linear-gradient(90deg,var(--accent1),var(--accent2));color:white;box-shadow:0 6px 18px rgba(30,90,200,0.14);transform: translateY(-2px);}
+#phones-container{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;}
+.phone-card{background:var(--card);border-radius:12px;padding:12px;box-shadow:0 6px 18px rgba(16,24,40,0.04);transition: transform .14s;cursor:pointer;text-align:center;position:relative;}
+.phone-card:hover{transform:translateY(-4px);background:#e9eefc;}
+.phone-card h3{margin:0;color:var(--accent1);font-size:16px;}
+.phone-card .brand-tag{font-size:12px;color:var(--muted);}
+.details-box{overflow:hidden;max-height:0;transition:max-height 0.3s ease, padding 0.3s ease; background:#fefefe; border-radius:10px; margin:8px 0; box-shadow:0 4px 12px rgba(0,0,0,0.05); padding:0 12px;}
+.details-box.open{padding:12px;}
+.details-box p{margin:6px 0;font-size:14px;}
+.empty{text-align:center;color:var(--muted);padding:30px 10px;}
+@media(max-width:600px){header h1{font-size:20px}.brand-btn{padding:7px 10px;font-size:13}.search-row input{font-size:14px}}
+</style>
+</head>
+<body>
+<header>
+<h1>SET FF</h1>
+<p>إعدادات Headshot - Free Fire</p>
+</header>
+<div class="wrap">
+<div class="search-row">
+  <input id="search" type="search" placeholder="🔍 ابحث عن هاتف...">
+  <button id="showAll" class="brand-btn">الكل</button>
+</div>
+<div id="brandList" class="brand-list"></div>
+<div id="phones-container"></div>
+</div>
+
+<script>
+let phones = [];
+let currentBrand = null;
+let openBox = null;
+
+// قائمة الماركات اللي عطيتينا
+const brands = [
+  "Samsung","Apple","Huawei","Xiaomi","Oppo","Vivo","OnePlus",
+  "Realme","Google","Motorola","Honor"
+];
+
+// تحميل البيانات من ملف JSON خارجي
+fetch('phones.json')
+  .then(response => response.json())
+  .then(data => {
+    phones = data;
+    initBrands();
+    renderPhones(phones);
+  })
+  .catch(err => console.error('خطأ في تحميل JSON:', err));
+
+function initBrands(){
+  const container = document.getElementById('brandList');
+  container.innerHTML='';
+  brands.forEach(b=>{
+    const btn = document.createElement('button');
+    btn.className='brand-btn';
+    btn.textContent=b;
+    btn.onclick=()=>{selectBrand(b,btn);}
+    container.appendChild(btn);
+  });
+
+  document.getElementById('showAll').onclick=()=>{
+    currentBrand=null;
+    clearActiveBrand();
+    renderPhones(phones);
+    if(openBox){openBox.remove(); openBox=null;}
+  };
+}
+
+function clearActiveBrand(){document.querySelectorAll('.brand-btn').forEach(el=>el.classList.remove('active'));}
+function selectBrand(brand,btn){
+  currentBrand=brand;
+  clearActiveBrand();
+  btn.classList.add('active');
+  const filtered = phones.filter(p=>p.brand===brand);
+  renderPhones(filtered);
+}
+
+function renderPhones(list){
+  const container = document.getElementById('phones-container');
+  container.innerHTML='';
+  if(!list.length){container.innerHTML='<div class="empty">لا توجد نتائج</div>'; return;}
+  list.forEach(p=>{
+    const card=document.createElement('div');
+    card.className='phone-card';
+    card.innerHTML=`<h3>${escapeHtml(p.name)}</h3><div class="brand-tag">${escapeHtml(p.brand)}</div>`;
+    card.onclick=()=>{
+      if(openBox){openBox.remove(); openBox=null;}
+      const details = document.createElement('div');
+      details.className='details-box open';
+      details.innerHTML=`
+        <p><strong>DPI:</strong> ${p.DPI}</p>
+        <p><strong>General:</strong> ${p.sensitivity.General}</p>
+        <p><strong>Red Dot:</strong> ${p.sensitivity["Red Dot"]}</p>
+        <p><strong>2x Scope:</strong> ${p.sensitivity["2x Scope"]}</p>
+        <p><strong>4x Scope:</strong> ${p.sensitivity["4x Scope"]}</p>
+        <p><strong>AWM Scope:</strong> ${p.sensitivity["AWM Scope"]}</p>
+        <p><strong>Free Look:</strong> ${p.sensitivity["Free Look"]}</p>
+      `;
+      card.after(details);
+      details.style.maxHeight=details.scrollHeight+'px';
+      openBox=details;
+    };
+    container.appendChild(card);
+  });
+}
+
+document.getElementById('search').addEventListener('input',function(){
+  const q=this.value.trim().toLowerCase();
+  let filtered = phones;
+  if(currentBrand) filtered=filtered.filter(p=>p.brand===currentBrand);
+  if(q) filtered=filtered.filter(p=>p.name.toLowerCase().includes(q)||p.brand.toLowerCase().includes(q));
+  renderPhones(filtered);
+  if(openBox){openBox.remove(); openBox=null;}
+});
+
+function escapeHtml(str){if(!str)return'';return String(str).replace(/[&<>"'`=\/]/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;','/':'&#x2F;','`':'&#x60;','=':'&#x3D;'}[s]));}
+</script>
+</body>
+</html>
