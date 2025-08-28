@@ -1,0 +1,1432 @@
+[
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A12",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A32",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S21",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note 20",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip 3",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M32",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy F42",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A52",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S20",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  },
+  {
+    "brand": "Apple",
+    "name": "iPhone 12",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "Apple",
+    "name": "iPhone 12 Pro",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "Apple",
+    "name": "iPhone 13",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "Apple",
+    "name": "iPhone 13 Pro",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "Apple",
+    "name": "iPhone 13 Pro Max",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "Apple",
+    "name": "iPhone 14",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "Apple",
+    "name": "iPhone 14 Pro",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "Apple",
+    "name": "iPhone 14 Pro Max",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "Apple",
+    "name": "iPhone SE (2022)",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "Apple",
+    "name": "iPhone 11",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  },
+  {
+    "brand": "Huawei",
+    "name": "P30",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "Huawei",
+    "name": "P40",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "Huawei",
+    "name": "P50",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 20",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 30",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 40",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "Huawei",
+    "name": "Nova 8",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "Huawei",
+    "name": "Nova 9",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "Huawei",
+    "name": "Y9 Prime",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "Huawei",
+    "name": "Y7a",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 10",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 11",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 12",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi 10C",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi 9A",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi 9C",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Mi 11",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Mi 12",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Mi 13",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Poco X4",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno 7",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno 8",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "Oppo",
+    "name": "A54",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "Oppo",
+    "name": "A74",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "Oppo",
+    "name": "F19",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "Oppo",
+    "name": "F21",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno 6",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "Oppo",
+    "name": "A16",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "Oppo",
+    "name": "A15",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno 5",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y20",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y30",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y50",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y70",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y76",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "Vivo",
+    "name": "V21",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "Vivo",
+    "name": "V23",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "Vivo",
+    "name": "V25",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "Vivo",
+    "name": "X50",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "Vivo",
+    "name": "X60",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "name": "Nord N100",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "name": "Nord N200",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "name": "Nord CE",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 9",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 9 Pro",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 10 Pro",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 8T",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 8",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 7T",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 7",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  },
+  {
+    "brand": "Realme",
+    "name": "C31",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "Realme",
+    "name": "C25",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "Realme",
+    "name": "C21",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "Realme",
+    "name": "15 5G",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "Realme",
+    "name": "8i",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "Realme",
+    "name": "9i",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "Realme",
+    "name": "Narzo 50",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "Realme",
+    "name": "Narzo 30",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "Realme",
+    "name": "X7 Max",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "Realme",
+    "name": "X50",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 6",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 6 Pro",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 7",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 7 Pro",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 5",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 4a",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 4",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 3a",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 3",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 2",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  },
+  {
+    "brand": "Motorola",
+    "name": "Edge 20",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "Motorola",
+    "name": "Edge 30",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "Motorola",
+    "name": "G10",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "Motorola",
+    "name": "G20",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "Motorola",
+    "name": "G30",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "Motorola",
+    "name": "G50",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "Motorola",
+    "name": "G60",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "Motorola",
+    "name": "G71",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "Motorola",
+    "name": "G100",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "Motorola",
+    "name": "G200",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  },
+  {
+    "brand": "Honor",
+    "name": "50",
+    "DPI": 460,
+    "sensitivity": {
+      "General": 170,
+      "Red Dot": 190,
+      "2x Scope": 175,
+      "4x Scope": 170,
+      "AWM Scope": 150,
+      "Free Look": 180
+    }
+  },
+  {
+    "brand": "Honor",
+    "name": "Magic 4",
+    "DPI": 461,
+    "sensitivity": {
+      "General": 171,
+      "Red Dot": 191,
+      "2x Scope": 176,
+      "4x Scope": 171,
+      "AWM Scope": 151,
+      "Free Look": 181
+    }
+  },
+  {
+    "brand": "Honor",
+    "name": "X8",
+    "DPI": 462,
+    "sensitivity": {
+      "General": 172,
+      "Red Dot": 192,
+      "2x Scope": 177,
+      "4x Scope": 172,
+      "AWM Scope": 152,
+      "Free Look": 182
+    }
+  },
+  {
+    "brand": "Honor",
+    "name": "X9",
+    "DPI": 463,
+    "sensitivity": {
+      "General": 173,
+      "Red Dot": 193,
+      "2x Scope": 178,
+      "4x Scope": 173,
+      "AWM Scope": 153,
+      "Free Look": 183
+    }
+  },
+  {
+    "brand": "Honor",
+    "name": "50 Lite",
+    "DPI": 464,
+    "sensitivity": {
+      "General": 174,
+      "Red Dot": 194,
+      "2x Scope": 179,
+      "4x Scope": 174,
+      "AWM Scope": 154,
+      "Free Look": 184
+    }
+  },
+  {
+    "brand": "Honor",
+    "name": "60",
+    "DPI": 465,
+    "sensitivity": {
+      "General": 175,
+      "Red Dot": 195,
+      "2x Scope": 180,
+      "4x Scope": 175,
+      "AWM Scope": 155,
+      "Free Look": 185
+    }
+  },
+  {
+    "brand": "Honor",
+    "name": "70",
+    "DPI": 466,
+    "sensitivity": {
+      "General": 176,
+      "Red Dot": 196,
+      "2x Scope": 181,
+      "4x Scope": 176,
+      "AWM Scope": 156,
+      "Free Look": 186
+    }
+  },
+  {
+    "brand": "Honor",
+    "name": "90",
+    "DPI": 467,
+    "sensitivity": {
+      "General": 177,
+      "Red Dot": 197,
+      "2x Scope": 182,
+      "4x Scope": 177,
+      "AWM Scope": 157,
+      "Free Look": 187
+    }
+  },
+  {
+    "brand": "Honor",
+    "name": "10X Lite",
+    "DPI": 468,
+    "sensitivity": {
+      "General": 178,
+      "Red Dot": 198,
+      "2x Scope": 183,
+      "4x Scope": 178,
+      "AWM Scope": 158,
+      "Free Look": 188
+    }
+  },
+  {
+    "brand": "Honor",
+    "name": "Play 4T Pro",
+    "DPI": 469,
+    "sensitivity": {
+      "General": 179,
+      "Red Dot": 199,
+      "2x Scope": 184,
+      "4x Scope": 179,
+      "AWM Scope": 159,
+      "Free Look": 189
+    }
+  }
+]
